@@ -1,0 +1,17 @@
+admin:admin
+admin:a
+admin:12346578
+test:test
+guest:guest
+anonymous:anonymous
+admin:password
+admin:
+root:toor
+root:passw0rd
+root:root
+guest:test
+$sub_name:password
+ADMIN:ADMIN
+Admin:Admin
+:
+a:a
