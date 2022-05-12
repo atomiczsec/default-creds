@@ -18,4 +18,5 @@ a:a
 admin:123123
 root:password
 root:password123
-
+admin:admin123
+admin:password!
