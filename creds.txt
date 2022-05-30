@@ -20,3 +20,16 @@ root:password
 root:password123
 admin:admin123
 admin:password!
+admin:j5Brn9
+admin:tomcat
+cxsdk:kdsxc
+j2deployer:j2deployer
+ovwebusr:OvW*busr1
+QCC:QLogic66
+role:changethis
+rolel:rolel
+rolel:tomcat
+tomcat:changethis
+tomcat:s3cret
+tomcat:tomcat
+xampp:xampp
