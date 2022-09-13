@@ -1,3414 +1,2606 @@
- admin admin 
- <blank> <blank> 
- <blank> 12345 
- <blank> 1234admin 
- <blank> admin 
- <blank> ANYCOM 
- <blank> comcomcom 
- <blank> ILMI 
- <blank> PASSWORD 
- admin <blank> 
- admin 1234admin 
- admin admin 
- Admin Admin 
- admin comcomcom 
- admin password 
- admin synnet 
- Administrator <blank> 
- Administrator admin 
- adminttd adminttd 
- debug synnet 
- defug synnet 
- manager manager 
- monitor monitor 
- read synnet 
- recover recover 
- recovery recovery 
- root !root 
- security security 
- tech <blank> 
- tech tech 
- Type User: FORCE <blank> 
- User Password 
- write synnet 
- VOL-0215 <blank> 
- volition <blank> 
- volition volition 
- Administrator 3ware 
- admin 33aastra 
- sysadm anicust 
- <blank> 0 
- __super (caclulated) 
- <blank> 0 
- <blank> 0000 
- admin <blank> 
- manager manager 
- monitor monitor 
- admin <blank> 
- <blank> <blank> 
- acer acer 
- admin 12345 
- Admin 12345 
- admin 123456 
- Admin 123456 
- <blank> <blank> 
- admin admin 
- admin password 
- <blank> <blank> 
- admin admin 
- Administrator adaptec 
- <blank> secret 
- Admin1 Admin1 
- admin admin 
- root router 
- admin password 
- admin secure 
- adip admin 
- adip consul 
- adip insta 
- admin admin 
- anonymous anonymous 
- aparker@geometrixx.info aparker 
- author author 
- jdoe@geometrixx.info jdoe 
- replication-receiver <blank> 
- replication-receiver replication-receiver 
- vgnadmin vgnadmin 
- sysadmin master 
- <blank> 2580 
- root ax400 
- <blank> <blank> 
- <blank> adtran 
- <blank> adtran 
- <blank> Password 
- admin password 
- admin password 
- <blank> Advance 
- admin <blank> 
- admin password 
- Airaya Airaya 
- <blank> admin 
- <blank> admin 
- <blank> <blank> 
- admin admin 
- <blank> 0000 
- admin admin 
- gdadmin admin 
- akkadianuser akkadianpassword 
- PMEAdmin PMEAdmin 
- SBAdmin SBAdmin123 
- root kn1TG7psLu 
- admin admin 
- <blank> <blank> 
- <blank> 1064 
- <blank> 151515 
- <blank> admin 
- adfexc adfexc 
- admin switch 
- at4400 at4400 
- client client 
- dhs3mt dhs3mt 
- dhs3pms dhs3pms 
- diag switch 
- ftp_admi kilo1987 
- ftp_inst pbxk1064 
- ftp_nmc tuxalize 
- ftp_oper help1954 
- halt tlah 
- install llatsni 
- kermit kermit 
- mtch mtch 
- mtcl <blank> 
- mtcl mtcl 
- root letacla 
- root permit 
- SUPERUSER ANS#150 
- superuser superuser 
- alien alien 
- root alien 
- <blank> admin 
- <blank> manager 
- admin <blank> 
- manager admin 
- manager friend 
- manager manager 
- root <blank> 
- secoff secoff 
- <blank> <blank> 
- <blank> admin 
- admin admin 
- admin admin 
- admin password 
- admin allot 
- root bagabu 
- admin <blank> 
- admin admin 
- admin linga 
- root <blank> 
- root root 
- user user 
- admin admin 
- admin 9999 
- admin 9999 
- admin admin 
- <blank> A.M.I 
- <blank> aammii 
- <blank> AM 
- <blank> AMI 
- <blank> AMI_SW 
- <blank> AMI!SW 
- <blank> AMI?SW 
- <blank> AMI.KEY 
- <blank> AMI.KEZ 
- <blank> AMI~ 
- <blank> AMIAMI 
- <blank> AMIDECOD 
- <blank> AMIPSWD 
- <blank> AMISETUP 
- <blank> BIOSPASS 
- <blank> CMOSPWD 
- <blank> HEWITT RAND 
- admin epicrouter 
- <blank> leaves 
- <blank> snake 
- admin admin 
- admin pass 
- <blank> Polrty 
- <blank> <blank> 
- <blank> 1988 
- <blank> admin 
- admin 1988 
- Admin 1988 
- admin admin 
- administrator password 
- Administrator vision2 
- guest guest 
- NetLinx password 
- root mozart 
- acc acc 
- admin paris 
- monitor anevia 
- root antsle 
- <blank> admin 
- jj <blank> 
- admin <blank> 
- admin admin 
- ADMIN ADMIN 
- admin j5Brn9 
- admin tomcat 
- cxsdk kdsxc 
- j2deployer j2deployer 
- ovwebusr OvW*busr1 
- QCC QLogic66 
- role changethis 
- role1 role1 
- role1 tomcat 
- root root 
- tomcat changethis 
- tomcat s3cret 
- tomcat tomcat 
- xampp xampp 
- admin <blank> 
- admin admin 
- admin j5Brn9 
- admin jboss4 
- admin tomcat 
- both tomcat 
- role changethis 
- role1 role1 
- role1 tomcat 
- root changethis 
- root root 
- tomcat changethis 
- apc apc 
- device apc 
- readonly apc 
- <blank> TENmanUFactOryPOWER 
- apc apc 
- (any) TENmanUFactOryPOWER 
- <blank> backdoor 
- <blank> serial number of the Call-UPS 
- <blank> serial number of the Share-UPS 
- <blank> TENmanUFactOryPOWER 
- apc apc 
- device apc 
- device device 
- POWERCHUTE APC 
- readonly apc 
- <blank> public 
- <blank> xyzzy 
- root alpine 
- root dottie 
- <blank> admin 
- <blank> password 
- <blank> public 
- <blank> xyzzy 
- admin public 
- mobile dottie 
- root admin 
- root alpine 
- scout scout 
- admin 0 
- <blank> <blank> 
- admin <blank> 
- <blank> atc123 
- ARIS9 *ARIS!1dm9n# 
- admin 123456 
- admin password 
- <blank> <blank> 
- admin system 
- <blank> admin 
- admin admin 
- admin admin 
- 123 234 
- admin asante 
- IntraStack Asante 
- IntraSwitch Asante 
- superuser <blank> 
- superuser asante 
- <blank> ascend 
- readonly lucenttech2 
- readwrite lucenttech1 
- root ascend 
- <blank> 3ascotel 
- admin admin 
- support support 
- user user 
- admin epicrouter 
- customer <blank> 
- DTA TJM 
- <blank> <blank> 
- <blank> SnuFG5 
- Admin admin 
- admin admin 
- Admin Admin 
- admin password 
- root root 
- <blank> admin 
- admin admin 
- adsl adsl1234 
- remotessh 5SaP9I26 
- <blank> mcp 
- admin <blank> 
- admin admin 
- user <blank> 
- operator 1234 
- Service 5678 
- admin atlantis 
- disabledsystemuser disabled1system1user6708 
- crowd-openid-server password 
- Crowd password 
- Demo password 
- Username password 
- admin password 
- <blank> PASSWORD 
- atx atx 
- <blank> telos 
- Admin Admin 
- autocad autocad 
- webadmin webadmin 
- <blank> <blank> 
- <blank> admin 
- <blank> Craftr4 
- admin admin 
- admin admin123 
- admin barney 
- admin password 
- Administrator ggdaseuaimhrke 
- craft <blank> 
- craft crftpw 
- Craft crftpw 
- dadmin dadmin 
- dadmin dadmin01 
- diag danger 
- manuf xxyyzz 
- root cms500 
- root ggdaseuaimhrke 
- root root 
- root ROOT500 
- <blank> Administrative 
- admin admin 
- Administrator <blank> 
- <blank> <blank> 
- <blank> 0 
- root tslinux 
- admin admin 
- <blank> ?award 
- <blank> ?award 
- <blank> <blank> 
- <blank> 1322222 
- <blank> 1322222 
- <blank> 256256 
- <blank> 256256 
- <blank> 589589 
- <blank> 589721 
- <blank> admin 
- <blank> admin 
- <blank> alfarome 
- <blank> alfarome 
- <blank> aLLy 
- <blank> aLLy 
- <blank> aPAf 
- <blank> aPAf 
- <blank> award 
- <blank> Award 
- <blank> AWARD SW 
- <blank> award_? 
- <blank> award_ps 
- <blank> AWARD_PW 
- <blank> AWARD_SW 
- <blank> AWARD_SW 
- <blank> AWARD?SW 
- <blank> award.sw 
- <blank> awkward 
- <blank> awkward 
- <blank> BIOS 
- <blank> BIOS 
- <blank> biosstar 
- <blank> biosstar 
- <blank> biostar 
- <blank> biostar 
- <blank> CONCAT 
- <blank> CONCAT 
- <blank> CONDO 
- <blank> condo 
- <blank> djonet 
- <blank> efmukl 
- <blank> g6PJ 
- <blank> g6PJ 
- <blank> h6BB 
- <blank> h6BB 
- <blank> HELGA-S 
- <blank> HELGA-S 
- <blank> HEWITT RAND 
- <blank> HEWITT RAND 
- <blank> HLT 
- <blank> HLT 
- <blank> j09F 
- <blank> j09F 
- <blank> j256 
- <blank> j256 
- <blank> j262 
- <blank> j262 
- <blank> j322 
- <blank> j322 
- <blank> j64 
- <blank> j64 
- <blank> lkw peter 
- <blank> lkw peter 
- <blank> lkwpeter 
- <blank> lkwpeter 
- <blank> PASSWORD 
- <blank> PASSWORD 
- <blank> SER 
- <blank> SER 
- <blank> setup 
- <blank> setup 
- <blank> SKY_FOX 
- <blank> SKY_FOX 
- <blank> SW_AWARD 
- <blank> SWITCHES_SW 
- <blank> SWITCHES_SW 
- <blank> Sxyz 
- <blank> Sxyz 
- <blank> SY_MB 
- <blank> SZYX 
- <blank> SZYX 
- <blank> t0ch20x 
- <blank> t0ch20x 
- <blank> t0ch88 
- <blank> t0ch88 
- <blank> TTPTHA 
- <blank> TTPTHA 
- <blank> TzqF 
- <blank> TzqF 
- <blank> wodj 
- <blank> wodj 
- <blank> ZAAADA 
- <blank> zbaaaca 
- <blank> zbaaaca 
- <blank> zjaaadc 
- root admin 
- root pass 
- root pass 
- <blank> <blank> 
- root pass 
- <blank> 0 
- setup setup 
- admin admin 
- isp isp 
- root admin 
- root toor 
- <blank> clickshare 
- admin admin 
- admin admin 
- ssladmin ssladmin 
- admin admin 
- ssladmin ssladmin 
- admin admin 
- admin epicrouter 
- <blank> NetICs 
- Manager <blank> 
- security security 
- User <blank> 
- root <blank> 
- system weblogic 
- musi1921 Musii%1921 
- admin admin 
- admin password 
- <blank> admin 
- <blank> MiniAP 
- admin <blank> 
- admin admin 
- root password 
- root password 
- bewan bewan 
- admin admin 
- admin admin 
- <blank> <blank> 
- admin admin 
- <blank> snmp-Trap 
- admin bintec 
- admin bintec 
- admin funkwerk 
- Admin No 
- <blank> Babylon 
- config biodata 
- <blank> Biostar 
- <blank> Q54arwms 
- admin admin 
- Admin ImageFolio 
- admin nimda 
- Administrator public 
- Blaeri 22332323 
- admin admin 
- admin articon 
- admin admin 
- Administrator the same all over 
- Best1_User BackupU$r 
- patrol patrol 
- USER USER 
- admin password 
- <blank> <blank> 
- politically correct 
- sa RPSsql12345 
- live live 
- service service 
- user user 
- <blank> <blank> 
- <blank> <blank> 
- <blank> Helpdesk 
- <blank> laflaf 
- <blank> Master 
- <blank> Super 
- admin admin 
- admin admin 
- installer installer 
- webadmin webadmin 
- admin brocade1 
- admin password 
- factory Fact4EMC 
- root fibranne 
- root fivranne 
- root Serv4EMC 
- user password 
- admin access 
- <blank> 00000000 
- <blank> 12345678 
- admin access 
- <blank> access 
- admin access 
- admin admin 
- admin password 
- root <blank> 
- root <blank> 
- admin admin 
- Admin <blank> 
- Guest Guest 
- nqadmin nq 
- nquser nq 
- pamadmin pamadmin 
- admin 1234 
- <blank> <blank> 
- netman <blank> 
- admin admin 
- root camera 
- <blank> 0 
- 7654321 7654321 
- Administrator admin 
- <blank> 1234567890 
- KeyOperator DV5800 
- LocalService DV5800 
- admin password 
- } <blank> 
- <blank> <blank> 
- admin (serial number) 
- admin <blank> 
- sa PracticeUser1 
- mediator mediator 
- root Mua'dib 
- cellit cellit 
- admin centreon 
- root tooridu 
- <blank> protection 
- <blank> iolan 
- admin admin 
- admin adminadmin 
- admin abc123 
- admin admin 
- admin abc123 
- admin admin 
- admin admin 
- administrator adminpass 
- admin password 
- admin password 
- cisco cisco 
- pix cisco 
- Cisco Cisco 
- cisco admin 
- <blank> riverhead 
- cisco cisco 
- admin system 
- <blank> _Cisco 
- <blank> <blank> 
- <blank> c 
- <blank> cable-docsis 
- <blank> cc 
- <blank> changeit 
- <blank> cisco 
- <blank> Cisco 
- <blank> Cisco router 
- <blank> ILMI 
- <blank> letmein 
- <blank> public/private/secret 
- <blank> riverhead 
- admin <blank> 
- admin admin 
- admin changeme 
- admin cisco 
- admin default 
- admin diamond 
- admin localadmin 
- admin tsunami 
- Administrator admin 
- Administrator changeme 
- bbsd-client <blank> 
- bbsd-client changeme2 
- bubba (unknown) 
- cisco <blank> 
- cisco cisco 
- Cisco Cisco 
- CISCO15 otbu+1 
- cmaker cmaker 
- EAdmin <blank> 
- enable <blank> 
- enable cisco 
- End User 7936 
- ESubscriber <blank> 
- guest <blank> 
- hsa hsadb 
- netrangr attack 
- pnadmin pnadmin 
- praisenetwork perfectpraise 
- private ReadWrite access secret 
- public ReadOnly access secret 
- ripeop <blank> 
- root attack 
- root blender 
- root Cisco 
- root password 
- root secur4u 
- sa <blank> 
- technician 2 + last 4 of Audio 
- UAMIS_ <blank> 
- UNITY_ <blank> 
- UOMNI_ <blank> 
- UVPIM_ <blank> 
- uwmadmin password 
- wlse wlsedb 
- wlseuser wlsepassword 
- <blank> citel 
- citel password 
- nsroot nsroot 
- root rootadmin 
- <blank> familymacintosh 
- clearone converge 
- ClearOne RAV 
- admin eTIPS123 
- admin 1234 
- Admin admin 
- Admin epicrouter 
- admin password 
- admin admin 
- admin admin 
- admin admin 
- admin admin 
- comcast <blank> 
- cusadmin CantTouchThis 
- cusadmin highspeed 
- admin dmr99 
- mydlp mydlp 
- <blank> <blank> 
- <blank> Compaq 
- administrator administrator 
- anonymous <blank> 
- operator operator 
- PFCUser 240653C9467E45 
- root manager 
- root rootme 
- user public 
- user user 
- administrator asecret 
- admin admin 
- admin <blank> 
- admin 1234 
- admin admin 
- admin 1234 
- admin password 
- anonymous password 
- <blank> last 
- <blank> admin 
- <blank> epicrouter 
- admin amigosw1 
- admin conexant 
- admin epicrouter 
- admin password 
- Administrator admin 
- Adam 29111991 
- <blank> ducati900ss 
- root t0talc0ntr0l4! 
- admin <blank> 
- Administrator admin 
- corecess corecess 
- admin admin 
- admin password 
- Admin Admin 
- <blank> <blank> 
- <blank> x40rocks 
- egcr ergc 
- <blank> Crystal 
- <blank> CTX_123 
- <blank> <blank> 
- cgadmin cgadmin 
- cgadmin cgadmin 
- <blank> Congress 
- cyber cyber 
- device cyber 
- Administrator ChangeMe1# 
- root <blank> 
- root tslinux 
- super surt 
- <blank> <blank> 
- <blank> admin 
- <blank> private 
- <blank> public 
- admin <blank> 
- Admin <blank> 
- admin admin 
- admin gvt12345 
- admin password 
- admin public 
- admin year2000 
- Alphanetworks wrgg15_di524 
- D-Link D-Link 
- dont need one admin 
- root admin 
- user <blank> 
- Clarissa <blank> 
- <blank> Daewuu 
- root tini 
- ioFTPD ioFTPD 
- Test Everything <blank> 
- op op 
- op operator 
- operator operator 
- <blank> letmein 
- sysadm sysadm 
- admin admin 
- anonymous <blank> 
- test test 
- anonymous any 
- anonymous any@ 
- user user 
- admin admin 
- davox davox 
- root davox 
- sa <blank> 
- <blank> Daytec 
- ADONIS BPMS 
- dasusr1 dasusr1 
- db2admin db2admin 
- db2fenc1 db2fenc1 
- db2inst1 db2inst1 
- db2inst1 db2pass 
- db2inst1 db2password 
- db2inst1 db2pw 
- <blank> tatercounter2000 
- operator admin 
- MDaemon MServer 
- admin 123456 
- root calvin 
- root calvin 
- <blank> 1RRWTTOOI 
- <blank> admin 
- <blank> Dell 
- <blank> Fireport 
- <blank> nz0u4bbe 
- Admin <blank> 
- admin admin 
- admin password 
- Administrator storageserver 
- rapport r@p8p0r+ 
- root calvin 
- root wyse 
- VNC winterm 
- admin my_DEMARC 
- <blank> 0 
- admin <blank> 
- <blank> BRIDGE 
- <blank> password 
- NETOP <blank> 
- NETWORK NETWORK 
- PBX PBX 
- Admin <blank> 
- admin michelangelo 
- root admin 
- user password 
- <blank> BRIDGE 
- <blank> password 
- Yak asd123 
- <blank> 1 
- <blank> access 
- <blank> ACCESS 
- <blank> komprie 
- <blank> system 
- <blank> SYSTEM 
- 1 manager 
- 1 operator 
- 1 syslib 
- 1.1 SYSTEM 
- 2 maintain 
- 2 manager 
- 2 operator 
- 2 syslib 
- 30 games 
- 5 games 
- 7 maintain 
- accounting accounting 
- ALLIN1 ALLIN1 
- ALLIN1MAIL ALLIN1MAIL 
- ALLINONE ALLINONE 
- BACKUP BACKUP 
- BATCH BATCH 
- boss boss 
- DCL DCL 
- DECMAIL DECMAIL 
- DECNET DECNET 
- DECNET NONPRIV 
- DEFAULT DEFAULT 
- DEFAULT USER 
- demo demo 
- DEMO DEMO 
- FIELD DIGITAL 
- FIELD FIELD 
- FIELD SERVICE 
- FIELD TEST 
- GUEST GUEST 
- HELP HELP 
- HELPDESK HELPDESK 
- HOST HOST 
- INFO INFO 
- INGRES INGRES 
- LINK LINK 
- MAILER MAILER 
- manager manager 
- MBMANAGER MBMANAGER 
- MBWATCH MBWATCH 
- NETCON NETCON 
- NETMGR NETMGR 
- NETNONPRIV NETNONPRIV 
- NETPRIV NETPRIV 
- NETSERVER NETSERVER 
- NETWORK NETWORK 
- NEWINGRES NEWINGRES 
- NEWS NEWS 
- OPERVAX OPERVAX 
- PDP11 PDP11 
- PDP8 PDP8 
- POSTMASTER POSTMASTER 
- PRIV PRIV 
- REPORT REPORT 
- RJE RJE 
- software software 
- STUDENT STUDENT 
- SYS SYS 
- SYSMAINT DIGITAL 
- SYSMAINT SERVICE 
- SYSMAINT SYSMAINT 
- SYSTEM MANAGER 
- SYSTEM OPERATOR 
- SYSTEM SYSLIB 
- SYSTEM SYSTEM 
- SYSTEST_CLIG SYSTEST 
- SYSTEST_CLIG SYSTEST_CLIG 
- SYSTEST UETP 
- TELEDEMO TELEDEMO 
- TEST TEST 
- UETP UETP 
- USER PASSWORD 
- USER USER 
- USERP USERP 
- VAX VAX 
- VMS VMS 
- admin 1234 
- admin password 
- admin <blank> 
- viewer <blank> 
- <blank> 12341234 
- 1234 1234 
- admin admin 
- root 12345 
- root root 
- admin <blank> 
- admin admin 
- admin public 
- admin <blank> 
- admin <blank> 
- admin <blank> 
- scwuser scw12345user 
- scwuser scw12345user 
- scwuser scw12345user 
- scwuser scw12345user 
- admin dnnadmin 
- host dnnhost 
- admin <blank> 
- admin <blank> 
- admin admin 
- draytek 1234 
- Draytek 1234 
- admin admin 
- <blank> Last 4 digits of VIN 
- admin 7ujMko0admin 
- root 7ujMko0admin 
- root vizxv 
- root par0t 
- dvstation dvst10n 
- root pixmet2003 
- admin admin 
- admin private 
- userNotUsed userNotU 
- admin admin 
- circ <blank> 
- LIBRARY <blank> 
- SETUP <blank> 
- admin epicrouter 
- <blank> admin 
- admin epicrouter 
- admin password 
- admin 8005 
- sa $easyWinArt4 
- admin admin 
- ilon ilon 
- admin <blank> 
- admin 123 
- admin 1234 
- admin epicrouter 
- admin password 
- admin su@psir 
- edimax software01 
- guest <blank> 
- guest 1234 
- <blank> 4getme2 
- <blank> hs7mwxkk 
- login admin 
- <blank> <blank> 
- <blank> admin 
- login admin 
- login password 
- superuser admin 
- login admin 
- builtin builtin 
- sa Ektron 
- <blank> <blank> 
- elastic changeme 
- (hostname/ipaddress) sysadmin 
- <blank> <blank> 
- <blank> cisco 
- admin admin 
- user user 
- emaq 4133 
- admin <blank> 
- admin changeme 
- backuponly backuponly1 
- backuprestore backuprestore1 
- dpn changeme 
- MCUser MCUser1 
- restoreonly restoreonly1 
- root 8RttoTriz 
- root changeme 
- viewuser viewuser1 
- sa 42Emerson42Eme 
- Admin Emerson1 
- admin admin 
- <blank> <blank> 
- root epp2011 
- admin admin 
- admin enhydra 
- <blank> xo11nE 
- <blank> netadmin 
- admin <blank> 
- admin netadmin 
- tiger tiger123 
- admin admin 
- websecadm changeme 
- computer repair 
- admin store 
- <blank> central 
- EPSONWEB admin 
- root MuZhlo9n%8!G 
- public <blank> 
- <blank> <blank> 
- <blank> help 
- admin default 
- expert expert 
- MD110 help 
- netman netman 
- Admin 1234 
- root jstwo 
- root pass 
- admin 00000000 
- <blank> 11111111 
- admin admin 
- operator operator 
- supervisor supervisor 
- anonymous Exabyte 
- admin admin256 
- user user5710 
- admin exinda 
- admin admin 
- admin extendnet 
- admin <blank> 
- <blank> EyesOfNetwork 
- admin publish 
- admin admin 
- <blank> <blank> 
- admin admin 
- root default 
- support <blank> 
- root <blank> 
- fastwire fw 
- firstsite firstsite 
- fwadmin xceladmin 
- admin admin 
- SYSDBA masterkey 
- SYSDBA masterkey 
- <blank> <blank> 
- <blank> password 
- admin admin 
- admin admin 
- admin <blank> 
- admin <blank> 
- maintainer admin 
- maintainer bcpb+serial# 
- <blank> bcpb(serial number of the firewall) 
- admin <blank> 
- maintainer admin 
- maintainer bcpb[SERIAL NO.] 
- maintainer pbcpbn(add-serial-number) 
- admin <blank> 
- <blank> <blank> 
- admin admin 
- <blank> Posterie 
- master access 
- anonymous <blank> 
- ftp ftp 
- guest guest 
- <blank> connect 
- <blank> fi-scanner 
- manage !manage 
- admin radius 
- Sysop Sysop 
- <blank> console 
- <blank> gandalf 
- <blank> system 
- <blank> xmux 
- manager manager 
- admin admin 
- museadmin Muse!Admin 
- install install 
- username password 
- test test 
- admin gnos 
- admin admin 
- Administrator <blank> 
- Administrator admin 
- admin admin 
- admin jiocentrum 
- admin password 
- admin 5iveL!fe 
- admin@local.host 5iveL!fe 
- root 5iveL!fe 
- glftpd glftpd 
- glftpd glftpd 
- DSL DSL 
- root root 
- admin urchin 
- admin admin 
- author author 
- guest guest 
- admin admin 
- admin admin 
- <blank> admin 
- admin 1234 
- admin admin 
- Administrator admin 
- End User 123 (or blank) 
- admin broadband 
- netadmin nimdaten 
- Admin5 4tugboat 
- <blank> guardone 
- n.a guardone 
- admin admin 
- Administrator admin 
- admin admin 
- ucenik23 ucenik 
- admin manager 
- system isp 
- admin admin 
- lansweeperuser mysecretpassword0* 
- admin admin 
- <blank> <blank> 
- <blank> hewlpack 
- admin admin 
- Admin Admin 
- admin hp.com 
- admin isee 
- Administrator The last eight digits of the serial number 
- ADVMAIL <blank> 
- ADVMAIL HP 
- ADVMAIL HPOFFICE DATA 
- Anonymous <blank> 
- FIELD <blank> 
- FIELD HPONLY 
- FIELD HPP187 SYS 
- FIELD HPWORD PUB 
- FIELD LOTUS 
- FIELD MANAGER 
- FIELD MGR 
- FIELD SERVICE 
- FIELD SUPPORT 
- HELLO FIELD.SUPPORT 
- HELLO MANAGER.SYS 
- HELLO MGR.SYS 
- HELLO OP.OPERATOR 
- HPSupport badg3r5 
- MAIL HPOFFICE 
- MAIL MAIL 
- MAIL MPE 
- MAIL REMOTE 
- MAIL TELESUP 
- MANAGER COGNOS 
- MANAGER HPOFFICE 
- MANAGER ITF3000 
- MANAGER SECURITY 
- MANAGER SYS 
- MANAGER TCH 
- MANAGER TELESUP 
- MGE VESOFT 
- MGR CAROLIAN 
- MGR CCC 
- MGR CNAS 
- MGR COGNOS 
- MGR CONV 
- MGR HPDESK 
- MGR HPOFFICE 
- MGR HPONLY 
- MGR HPP187 
- MGR HPP189 
- MGR HPP196 
- MGR INTX3 
- MGR ITF3000 
- MGR NETBASE 
- MGR REGO 
- MGR RJE 
- MGR ROBELLE 
- MGR SECURITY 
- MGR SYS 
- MGR TELESUP 
- MGR VESOFT 
- MGR WORD 
- MGR XLSERVER 
- Oper Oper 
- OPERATOR COGNOS 
- OPERATOR DISC 
- OPERATOR SUPPORT 
- OPERATOR SYS 
- OPERATOR SYSTEM 
- PCUSER SYS 
- RSBCMON SYS 
- SPOOLMAN HPOFFICE 
- WP HPOFFICE 
- RAID hpt 
- admin 12345 
- admin hipchat 
- <blank> 0000 
- <blank> 0300 
- <blank> 1900 
- roo honey 
- root honey 
- admin 12345 
- admin 1234 
- LocalComServer LCS pwd 03 
- TPSLocalServer TLS pwd 03 
- <blank> foolproof 
- AdvWebadmin advcomm500349 
- <blank> <blank> 
- <blank> <blank> 
- <blank> <blank> 
- admin opsware_admin 
- Administrator admin 
- ibrix ibrix 
- root hpinvent 
- <blank> <blank> 
- <blank> AUTORAID 
- admin !admin 
- admin <blank> 
- admin admin 
- admin isee 
- Administrator admin 
- Factory 56789 
- root password 
- admin <blank> 
- admin admin 
- Admin admin 
- digicel digicel 
- telecomadmin admintelecom 
- user HuaweiUser 
- user user 
- vodafone vodafone 
- admin admin 
- TMAR#HWMT8007079 <blank> 
- admin admin 
- TMAR#HWMT8007079 <blank> 
- hqadmin hqadmin 
- I2b2demodata i2b2demodata 
- I2b2demodata2 i2b2demodata2 
- I2b2hive i2b2hive 
- I2b2metadata i2b2metadata 
- I2b2metadata2 i2b2metadata2 
- I2b2workdata i2b2workdata 
- I2b2workdata2 i2b2workdata2 
- admin admin 
- USERID PASSW0RD 
- maxadmin maxadmin 
- maxreg maxreg 
- mxintadm mxintadm 
- admin password 
- admin admin0001 
- root Passw0rd 
- superuser passw0rd 
- admin admin 
- ucdpadmin ucdpadmin 
- wasadmin wasadmin 
- <blank> <blank> 
- <blank> admin 
- <blank> ascend 
- <blank> IBM 
- <blank> MBIU0 
- <blank> R1QTPS 
- <blank> sertafu 
- $ALOC$ <blank> 
- $SRV $SRV 
- 11111111 11111111 
- 22222222 22222222 
- admin <blank> 
- ADMIN <blank> 
- admin admin 
- admin password 
- admin secure 
- Administrator admin 
- AP2SVP <blank> 
- APL2PP <blank> 
- AUTOLOG1 <blank> 
- BATCH <blank> 
- BATCH1 <blank> 
- BATCH2 <blank> 
- CCC <blank> 
- CICSUSER CISSUS 
- CMSBATCH <blank> 
- CMSBATCH CMSBATCH 
- CMSUSER <blank> 
- CPNUC <blank> 
- CPRM <blank> 
- CSPUSER <blank> 
- CVIEW <blank> 
- DATAMOVE <blank> 
- db2fenc1 db2fenc1 
- db2inst1 db2inst1 
- DBDCCICS DBDCCIC 
- DEMO1 <blank> 
- DEMO2 <blank> 
- DEMO3 <blank> 
- DEMO4 <blank> 
- DIRECT <blank> 
- DIRMAINT <blank> 
- DISKCNT <blank> 
- EREP <blank> 
- ESSEX <blank> 
- fg_sysadmin password 
- FORSE FORSE 
- FSFADMIN <blank> 
- FSFTASK1 <blank> 
- FSFTASK2 <blank> 
- GCS <blank> 
- guest <blank> 
- guest guest 
- hscroot abc123 
- ibm 2222 
- ibm password 
- ibm service 
- IBMUSER SYS1 
- IDMS <blank> 
- IDMSSE <blank> 
- IIPS <blank> 
- IPC <blank> 
- IPFSERV <blank> 
- ISPVM <blank> 
- IVPM1 <blank> 
- IVPM2 <blank> 
- MAINT <blank> 
- MAINT MAINT 
- MOESERV <blank> 
- NEVIEW <blank> 
- OLTSEP <blank> 
- OP1 <blank> 
- OPER OPER 
- OPERATIONS OPERATIONS 
- OPERATNS <blank> 
- OPERATNS OPERATNS 
- OPERATOR <blank> 
- Operator Operator 
- PDMREMI <blank> 
- PENG <blank> 
- POST BASE 
- PROCAL <blank> 
- PRODBM <blank> 
- PRODCICS PRODCICS 
- PROG PROG 
- PROMAIL <blank> 
- PSFMAINT <blank> 
- PVM <blank> 
- qpgmr qpgmr 
- qsecofr 11111111 
- qsecofr 22222222 
- qsecofr qsecofr 
- qserv qserv 
- QSRV 11111111 
- QSRV 22222222 
- qsrv qsrv 
- QSRV QSRV 
- qsrvbas qsrvbas 
- qsvr ibmcel 
- qsvr qsvr 
- qsysopr qsysopr 
- quser quser 
- RDM470 <blank> 
- root <blank> 
- root passw0rd 
- ROUTER <blank> 
- RSCS <blank> 
- RSCSV2 <blank> 
- SAVSYS <blank> 
- secofr secofr 
- sedacm secacm 
- SFCMI <blank> 
- SFCNTRL <blank> 
- SMART <blank> 
- SQLDBA <blank> 
- SQLUSER <blank> 
- storwatch specialist 
- superadmin secret 
- SYSA SYSA 
- SYSADMIN <blank> 
- SYSCKP <blank> 
- SYSDUMP1 <blank> 
- SYSERR <blank> 
- sysopr sysopr 
- SYSWRM <blank> 
- TDISK <blank> 
- TEMP <blank> 
- TSAFVM <blank> 
- user USERP 
- USERID PASSW0RD 
- USERID PASSWORD 
- VASTEST <blank> 
- VCSRV VCSRV 
- VM3812 <blank> 
- VMARCH <blank> 
- VMASMON <blank> 
- VMASSYS <blank> 
- VMBACKUP <blank> 
- VMBSYSAD <blank> 
- VMMAP <blank> 
- VMTAPE <blank> 
- VMTLIBR <blank> 
- VMUTIL <blank> 
- VSEIPO <blank> 
- VSEMAINT <blank> 
- VSEMAN <blank> 
- vt100 public 
- VTAM <blank> 
- VTAM VTAM 
- VTAMUSER <blank> 
- webadmin webibm 
- wpsadmin wpsadmin 
- admin 123456 
- root icatch99 
- admin P@55w0rd! 
- root iDirect 
- admin 123 
- sa $ei$micMicro 
- admin admin 
- admin admin 
- Admin Admin 
- Administrator <blank> 
- admin <blank> 
- informix informix 
- admin 0 
- admin infrant1 
- admin ip20 
- admin ip21 
- admin ip3000 
- admin ip305Beheer 
- admin ip400 
- iclock timely 
- iclock timely 
- Administrator letmein 
- Administrator 1234 
- Administrator 12345678 
- Administrator 19750407 
- <blank> <blank> 
- <blank> Intel 
- <blank> isolation 
- <blank> shiva 
- admin <blank> 
- Guest <blank> 
- intel intel 
- khan kahn 
- NICONEX NICONEX 
- root <blank> 
- root admin 
- setup setup 
- admin hello 
- administrator 1234 
- SYSDBA masterkey 
- admn password 
- <blank> intermec 
- intermec intermec 
- admin letmein 
- operator $chwarzepumpe 
- system sys 
- <blank> <blank> 
- admin admin 
- Admin Admin 
- admin admin 
- <blank> admin 
- Administrator admin 
- admin <blank> 
- admin admin 
- root admin 
- admin operator 
- admin admin 
- guest <blank> 
- XXSESS_MGRYY X#1833 
- root system 
- root system 
- <blank> FOOBAR 
- admin NetSurvibox 
- admin ironport 
- <blank> <blank> 
- <blank> iwill 
- admin epicrouter 
- jamfsoftware jamfsw03 
- admin Janitza 
- guest Janitza 
- Homepage Password 0th 
- user Janitza 
- jasperadmin bitnami 
- jasperadmin jasperadmin 
- demo demo 
- jasperadmin jasperadmin 
- joeuser joeuser 
- superuser superuser 
- admin admin 
- admin admin 
- JDE JDE 
- PRODDTA PRODDTA 
- hydrasna <blank> 
- hydrasna <blank> 
- admin admin 
- <blank> admin 
- <blank> <blank> 
- Jetform <blank> 
- <blank> spooml 
- admin password 
- administrator administrator 
- admin jiocentrum 
- johnson control 
- <blank> 57gbzb 
- <blank> technolgi 
- admin <blank> 
- admin <<< %s(un=\'%s\') = %u. 
- admin abc123 
- admin abc123 
- admin netscreen 
- admin peribit 
- netscreen netscreen 
- redline redline 
- serial# serial# 
- super juniper123 
- netscreen <<< %s(un='%s') = %u 
- admin abc123 
- admin netscreen 
- admin peribit 
- netscreen netscreen 
- redline redline 
- serial# serial# 
- super juniper123 
- admin admin 
- test test 
- admin jvc 
- jvc skaarhoj 
- <blank> 3477 
- <blank> 8111 
- kali kali 
- root toor 
- admin admin 
- admin <blank> 
- admin adslroot 
- administrator <blank> 
- root password 
- keyscan KEYSCAN 
- PACSLinkIP NetServer 
- PLMIMService NetServer 
- RNIServiceManager NetServer 
- SA PASSWORD 
- Service Service 
- kodi kodi 
- <blank> <blank> 
- <blank> 0 
- <blank> 0000 
- <blank> 1234 
- <blank> MagiMFP 
- <blank> sysadm 
- <blank> sysAdmin 
- admin administrator 
- <blank> <blank> 
- <blank> 0 
- <blank> 0000 
- <blank> 1234 
- <blank> MagiMFP 
- <blank> sysadm 
- <blank> sysAdmin 
- admin administrator 
- Admin adminpw 
- SuperUser kronites 
- admin 123 
- admin 123456 
- superuser 123456 
- <blank> admin00 
- <blank> PASSWORD 
- 2800 2800 
- admin <blank> 
- admin admin 
- root root 
- admin admin 
- <blank> <blank> 
- <blank> sysadm 
- admin <blank> 
- supervisor <blank> 
- admin admin 
- admin admin 
- dev dev 
- WEBADM password 
- <blank> <blank> 
- <blank> access 
- <blank> admin 
- <blank> lantronix 
- <blank> system 
- login access 
- sysadmin PASS 
- ADMIN AIMS 
- FB AIMS 
- <blank> <blank> 
- admin admin 
- lam lam 
- <blank> MASTER 
- LENEL MULTIMEDIA 
- admin admin 
- admin admin 
- admin leviton 
- <blank> jannie 
- admin epicrouter 
- vikram singh 
- LR-ISDN LR-ISDN 
- Liebert Liebert 
- <blank> 1234 
- admin admin 
- support support 
- ADMINISTRATOR SENTINEL 
- SENTINEL SENTINEL 
- admin admin 
- admin password 
- linksys <blank> 
- root admin 
- <blank> <blank> 
- <blank> admin 
- <blank> epicrouter 
- admin <blank> 
- admin admin 
- Administrator admin 
- comcast 1234 
- root orion99 
- user tivonpw 
- gonzo <blank> 
- root uClinux 
- satan <blank> 
- snake <blank> 
- ssadmin sspassword 
- !root <blank> 
- root <blank> 
- setup changeme! 
- admin 1234 
- <blank> 0 
- root logapp 
- toor logapp 
- admin 0 
- admin 0 
- admin admin 
- (any 3 characters) cascade 
- (any 3 chars) cascade 
- <blank> admin 
- <blank> cascade 
- admin AitbISP4eCiG 
- admin Ascend 
- Administrator <blank> 
- bciim bciimpw 
- bcim bcimpw 
- bcms bcmspw 
- bcnas bcnaspw 
- blue bluepw 
- browse browsepw 
- browse looker 
- craft craft 
- craft craftpw 
- cust custpw 
- enquiry enquirypw 
- field support 
- inads inads 
- inads indspw 
- init initpw 
- locate locatepw 
- LUCENT01 UI-PSWD-01 
- LUCENT02 UI-PSWD-02 
- maint maintpw 
- maint rwmaint 
- nms nmspw 
- pw pwpw 
- rcust rcustpw 
- readonly lucenttech2 
- readwrite lucenttech1 
- root ascend 
- super super 
- support supportpw 
- sysadm admpw 
- sysadm sysadmpw 
- sysadm syspw 
- tech field 
- Admin password 
- administrator 19750407 
- <blank> mMmM 
- admin mono 
- <blank> sp99dd 
- <blank> admin 
- admin admin 
- admin 123123 
- <blank> prost 
- MCVEADMIN password 
- admin %89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01 
- admin admin 
- admin admin 
- admin boca raton 
- administrator root 
- <blank> 000000 
- ami <blank> 
- admin 1234 
- <blank> <blank> 
- admin admin 
- admin admin123 
- scmadmin scmchangeme 
- webshield webshieldchangeme 
- Administrator password 
- McdataSE redips 
- sa M3d!aP0rtal 
- admin 1234 
- administrator <blank> 
- <blank> medion 
- mcUser medocheck123 
- <blank> star 
- root timeserver 
- memotec supervisor 
- MICRO RSX 
- admin admin 
- Administrator admin 
- service smile 
- msf msf 
- msfdev msfdev 
- client client 
- admin phplist 
- sa SilkCentral12!34 
- admin epicrouter 
- admin superuser 
- user password 
- <blank> sldkj754 
- <blank> xyzall 
- admin admin 
- admin epicrouter 
- mac <blank> 
- root default 
- <blank> dn_04rjc 
- root root 
- <blank> letmein 
- <blank> <blank> 
- <blank> admin 
- <blank> sa 
- Administrator <blank> 
- Administrator Administrator 
- Guest <blank> 
- Guest Guest 
- IS_$hostname IS_$hostname 
- LDAP_Anonymous LdapPassword_1 
- LessonUser1 <blank> 
- LessonUser2 <blank> 
- MSHOME MSHOME 
- sa <blank> 
- User User 
- bsxuser bsxpass 
- admin <blank> 
- admin <blank> 
- root root 
- <blank> sysadm 
- admin <blank> 
- operator <blank> 
- <blank> SYSTEM 
- 1nstaller 5X2000 
- installer sx2000 
- maint1 sx2000 
- maint2 sx2000 
- s1stem 5X2000 
- system sx2000 
- <blank> <blank> 
- installer 1000 
- system mnet 
- system password 
- root blablabla 
- admin meinsm 
- admin meinsm 
- IEUser D@rj33l1ng 
- admin admin 
- <blank> <blank> 
- admin isee 
- <blank> <blank> 
- <blank> 0000 
- admin motorola 
- admin password 
- cablecom router 
- service smile 
- setup <blank> 
- technician yZgO8Bvj 
- 1234 1234 
- admin admin 
- admin mp3mystic 
- SYSADM sysadm 
- admin admin 
- ADONI BPMS 
- sa <blank> 
- sa password 
- sa Password123 
- sa sa 
- sa sqlserver 
- admin admin 
- <blank> admin 
- admin muze 
- demo demo 
- root root 
- admin@example.com admin 
- root <blank> 
- superdba admin 
- admin admin123 
- GlobalAdmin GlobalAdmin 
- admin NetSeq 
- cic cic 
- cic cic!23456789 
- cic Cic!23456789 
- sa cic 
- sa cic!23456789 
- sa Cic!23456789 
- root ciwuxe 
- ncrm ncrm 
- <blank> <blank> 
- <blank> iPbSmNt 
- admin password 
- admin admin123 
- admin NetCache 
- admin admin 
- admin password 
- netbotz netbotz 
- <blank> admin 
- admin password 
- user password 
- admin admin 
- admin admin 
- guest guest 
- <blank> <blank> 
- <blank> 1234 
- <blank> admin 
- <blank> password 
- <blank> private 
- <blank> zebra 
- admin <blank> 
- admin 1234 
- admin admin 
- admin draadloos 
- admin infrant1 
- admin netgear1 
- admin password 
- Admin password 
- admin setup 
- comcast 1234 
- cusadmin highspeed 
- Gearguy Geardog 
- super 5777364 
- superman 21241036 
- naadmin naadmin 
- admin admin 
- <blank> <blank> 
- admin <blank> 
- admin noway 
- factory (see note) 
- netopia netopia 
- setup setup 
- admin admin 
- <blank> <blank> 
- admin <blank> 
- admin netscreen 
- Administrator <blank> 
- netscreen netscreen 
- operator <blank> 
- admin password 
- admin admin 
- admin NetCache 
- e250 e250changeme 
- e500 e500changeme 
- <blank> admin 
- iceman <blank> 
- admin netxms 
- bootstrap generated 
- root admin 
- ADMIN PASSWORD 
- me <blank> 
- root NeXT 
- signa signa 
- admin admin123 
- admin <blank> 
- admin asd 
- admin admin 
- Administrator nicecti 
- Nice-admin nicecti 
- vcr NetVCR 
- <blank> xdfk9874t3 
- <blank> 9999 
- <blank> nokai 
- <blank> nokia 
- <blank> Telecom 
- client client 
- m1122 m1122 
- nop 12345 
- nop 123454 
- root nokia 
- root rootme 
- Security Code 12345 
- telecom telecom 
- Telecom Telecom 
- admin <blank> 
- **23646 23646 
- **266344 266344 
- admin admin 
- <blank> <blank> 
- <blank> 0 
- <blank> 266344 
- <blank> l1 
- <blank> l2 
- <blank> ro 
- <blank> rw 
- <blank> rwa 
- <blank> secure 
- 266344 266344 
- admin <blank> 
- admin 000000 
- admin admin 
- admin admin000 
- admin root 
- admin setup 
- administrator PlsChgMe! 
- ccrusr ccrusr 
- conferencing admin 
- debug gubed 
- distrib distrib0 
- disttech 4tas 
- disttech disttech 
- disttech etas 
- l2 l2 
- l3 l3 
- login 0 
- login 0000 
- login 1111 
- login 8429 
- maint maint 
- maint ntacdmax 
- Manager <blank> 
- mlusr mlusr 
- ro ro 
- root 3ep5w2u 
- rw rw 
- rwa rwa 
- service smile 
- spcl 0 
- spcl 0000 
- supervisor PlsChgMe! 
- supervisor visor 
- sysadmin nortel 
- system adminpwd 
- tasman tasmannet 
- trmcnfg trmcnfg 
- user <blank> 
- user user 
- user user0000 
- <blank> cr0wmt 911 
- <blank> root 
- <blank> san fran 8 
- ADMIN <blank> 
- admin admin 
- ADMIN admin 
- ADMIN ADMIN 
- admin novell 
- ARCHIVIST <blank> 
- ARCHIVIST ARCHIVIST 
- BACKUP <blank> 
- BACKUP BACKUP 
- CHEY_ARCHSVR <blank> 
- CHEY_ARCHSVR CHEY_ARCHSVR 
- FAX <blank> 
- FAX FAX 
- FAXUSER <blank> 
- FAXUSER FAXUSER 
- FAXWORKS <blank> 
- FAXWORKS FAXWORKS 
- GATEWAY <blank> 
- GATEWAY GATEWAY 
- GUEST <blank> 
- GUEST GUEST 
- GUEST GUESTGUE 
- GUEST GUESTGUEST 
- GUEST TSEUG 
- HPLASER <blank> 
- HPLASER HPLASER 
- LASER <blank> 
- LASER LASER 
- LASERWRITER <blank> 
- LASERWRITER LASERWRITER 
- MAIL <blank> 
- MAIL MAIL 
- POST <blank> 
- POST POST 
- PRINT <blank> 
- PRINT PRINT 
- PRINTER <blank> 
- PRINTER PRINTER 
- ROOT <blank> 
- ROOT ROOT 
- ROUTER <blank> 
- SABRE <blank> 
- sadmin <blank> 
- servlet manager 
- SUPERVISOR <blank> 
- SUPERVISOR HARRIS 
- SUPERVISOR NETFRAME 
- SUPERVISOR NF 
- SUPERVISOR NFI 
- SUPERVISOR SUPERVISOR 
- SUPERVISOR SYSTEM 
- TEST <blank> 
- TEST TEST 
- USER_TEMPLATE <blank> 
- USER_TEMPLATE USER_TEMPLATE 
- WANGTEK <blank> 
- WANGTEK WANGTEK 
- WINDOWS_PASSTHRU <blank> 
- WINDOWS_PASSTHRU WINDOWS_PASSTHRU 
- WINSABRE SABRE 
- WINSABRE WINSABRE 
- <blank> password 
- root nsi 
- admin changeme 
- $system <blank> 
- Administrator Administrator 
- <blank> 0 and the number of OCE printer 
- admin admin 
- admin admin 
- demo demo 
- ods ods 
- admin <SEE COMMENT> 
- admin OkiLAN 
- root <SEE COMMENT> 
- username password 
- <blank> AaBbCcDd 
- admin admin 
- admin adslolitec 
- <blank> SMDR 
- <blank> SUPER 
- <blank> <blank> 
- admin admin 
- root 0P3N 
- mailadmin secret 
- admin OCS 
- adminstat OCS 
- adminuser OCS 
- adminview OCS 
- helpdesk OCS 
- gts opengts 
- admin admin 
- admin demo 
- Bobo hello 
- Coco hello 
- Flo hello 
- Joe hello 
- Moe hello 
- user_analyst demo 
- user_approver demo 
- user_author demo 
- user_checker demo 
- user_designer demo 
- user_editor demo 
- user_expert demo 
- user_marketer demo 
- user_pricer demo 
- user_publisher demo 
- admin admin 
- cac_admin cacadmin 
- sys uplink 
- root mpegvideo 
- admin <blank> 
- admin admin 
- <blank> <blank> 
- ADAMS WOOD 
- ADLDEMO ADLDEMO 
- admin admin 
- admin adminadmin 
- ADMIN JETSPEED 
- admin security 
- admin welcome 
- ADMIN WELCOME 
- ADMINISTRATOR admin 
- ADMINISTRATOR ADMINISTRATOR 
- ANDY SWORDFISH 
- AP AP 
- APPLSYS APPLSYS 
- APPLSYS FND 
- APPLSYSPUB FNDPUB 
- APPS APPS 
- APPUSER APPUSER 
- AQ AQ 
- AQDEMO AQDEMO 
- AQJAVA AQJAVA 
- AQUSER AQUSER 
- AUDIOUSER AUDIOUSER 
- AURORA@ORB@UNAUTHENTICATED INVALID 
- AURORA$JIS$UTILITY$ <blank> 
- AURORA$ORB$UNAUTHENTICATED INVALID 
- BC4J BC4J 
- BLAKE PAPER 
- bpel bpel 
- BRIO_ADMIN BRIO_ADMIN 
- CATALOG CATALOG 
- CDEMO82 CDEMO82 
- CDEMOCOR CDEMOCOR 
- CDEMORID CDEMORID 
- CDEMOUCB CDEMOUCB 
- CENTRA CENTRA 
- CIDS CIDS 
- CIS CIS 
- CISINFO CISINFO 
- CLARK CLOTH 
- cn=orcladmin welcome 
- COMPANY COMPANY 
- COMPIERE COMPIERE 
- CQSCHEMAUSER PASSWORD 
- CSMIG CSMIG 
- CTXDEMO CTXDEMO 
- CTXSYS <blank> 
- CTXSYS CTXSYS 
- DBI MUMBLEFRATZ 
- DBSNMP DBSNMP 
- demo demo 
- DEMO DEMO 
- DEMO8 DEMO8 
- DEMO9 DEMO9 
- DES DES 
- DEV2000_DEMOS DEV2000_DEMOS 
- DIP DIP 
- DISCOVERER_ADMIN DISCOVERER_ADMIN 
- DSGATEWAY DSGATEWAY 
- DSSYS DSSYS 
- EJSADMIN EJSADMIN 
- EMP EMP 
- ESTOREUSER ESTORE 
- EVENT EVENT 
- EXFSYS EXFSYS 
- FINANCE FINANCE 
- FND FND 
- FROSTY SNOWMAN 
- GL GL 
- GPFD GPFD 
- GPLD GPLD 
- HCPARK HCPARK 
- HLW HLW 
- HR HR 
- ilom-admin ilom-admin 
- ilom-operator ilom-operator 
- IMAGEUSER IMAGEUSER 
- IMEDIA IMEDIA 
- internal oracle 
- JMUSER JMUSER 
- joe password 
- JONES STEEL 
- JWARD AIROPLANE 
- L2LDEMO L2LDEMO 
- LBACSYS LBACSYS 
- LIBRARIAN SHELVES 
- mary password 
- MASTER PASSWORD 
- MDDEMO_CLERK CLERK 
- MDDEMO_MGR MGR 
- MDDEMO MDDEMO 
- MDSYS MDSYS 
- MFG MFG 
- MGWUSER MGWUSER 
- MIGRATE MIGRATE 
- MILLER MILLER 
- MMO2 MMO2 
- MODTEST YES 
- MOREAU MOREAU 
- MTS_USER MTS_PASSWORD 
- MTSSYS MTSSYS 
- MTYSYS MTYSYS 
- MXAGENT MXAGENT 
- NAMES NAMES 
- nm2user nm2user 
- OAS_PUBLIC OAS_PUBLIC 
- OCITEST OCITEST 
- ODM_MTR MTRPW 
- ODM ODM 
- ODS ODS 
- ODSCOMMON ODSCOMMON 
- OE OE 
- OEMADM OEMADM 
- OEMREP OEMREP 
- OLAPDBA OLAPDBA 
- OLAPSVR INSTANCE 
- OLAPSYS MANAGER 
- OMWB_EMULATION ORACLE 
- OO OO 
- OPENSPIRIT OPENSPIRIT 
- ORACACHE (random password) 
- oracle oracle 
- ORAREGSYS ORAREGSYS 
- ORASSO ORASSO 
- ORDPLUGINS ORDPLUGINS 
- ORDSYS ORDSYS 
- OSE$HTTP$ADMIN (random password) 
- OSP22 OSP22 
- OUTLN OUTLN 
- OWA_PUBLIC OWA_PUBLIC 
- OWA OWA 
- OWNER OWNER 
- PANAMA PANAMA 
- PATROL PATROL 
- PERFSTAT PERFSTAT 
- PLEX PLEX 
- PLSQL SUPERSECRET 
- PM PM 
- PO PO 
- PO7 PO7 
- PO8 PO8 
- PORTAL30_DEMO PORTAL30_DEMO 
- PORTAL30_PUBLIC PORTAL30_PUBLIC 
- PORTAL30_SSO_PS PORTAL30_SSO_PS 
- PORTAL30_SSO_PUBLIC PORTAL30_SSO_PUBLIC 
- PORTAL30_SSO PORTAL30_SSO 
- PORTAL30 PORTAL30 
- PORTAL30 PORTAL31 
- POWERCARTUSER POWERCARTUSER 
- PRIMARY PRIMARY 
- PUBSUB PUBSUB 
- PUBSUB1 PUBSUB1 
- QDBA QDBA 
- QS_ADM QS_ADM 
- QS_CB QS_CB 
- QS_CBADM QS_CBADM 
- QS_CS QS_CS 
- QS_ES QS_ES 
- QS_OS QS_OS 
- QS_WS QS_WS 
- QS QS 
- RE RE 
- REP_MANAGER DEMO 
- REP_OWNER DEMO 
- REP_OWNER REP_OWNER 
- REPADMIN REPADMIN 
- REPORTS_USER OEM_TEMP 
- RMAIL RMAIL 
- RMAN RMAN 
- SAMPLE SAMPLE 
- SAP SAPR3 
- SCOTT TIGER 
- scott tiger or tigger 
- SDOS_ICSAP SDOS_ICSAP 
- SECDEMO SECDEMO 
- SERVICECONSUMER1 SERVICECONSUMER1 
- SH SH 
- siteadmin siteadmin 
- SITEMINDER SITEMINDER 
- SLIDE SLIDEPW 
- STARTER STARTER 
- STRAT_USER STRAT_PASSWD 
- SWPRO SWPRO 
- SWUSER SWUSER 
- SYMPA SYMPA 
- sys change_on_install 
- SYS CHANGE_ON_INSTALL 
- SYS D_SYSPW 
- sys sys 
- SYSADM SYSADM 
- SYSMAN oem_temp 
- SYSMAN OEM_TEMP 
- SYSTEM D_SYSTPW 
- system manager 
- SYSTEM MANAGER 
- system password 
- system security 
- system/manager sys/change_on_install 
- TAHITI TAHITI 
- TDOS_ICSAP TDOS_ICSAP 
- TESTPILOT TESTPILOT 
- TRACESRV TRACE 
- TRACESVR TRACE 
- TRAVEL TRAVEL 
- TSDEV TSDEV 
- TSUSER TSUSER 
- TURBINE TURBINE 
- ULTIMATE ULTIMATE 
- USER USER 
- USER0 USER0 
- USER1 USER1 
- USER2 USER2 
- USER3 USER3 
- USER4 USER4 
- USER5 USER5 
- USER6 USER6 
- USER7 USER7 
- USER8 USER8 
- USER9 USER9 
- UTLBSTATU UTLESTAT 
- VIDEOUSER VIDEO USER 
- VIF_DEVELOPER VIF_DEV_PWD 
- VIRUSER VIRUSER 
- VRR1 VRR1 
- WEBCAL01 WEBCAL01 
- webdb webdb 
- WEBDB WEBDB 
- weblogic weblogic 
- WEBREAD WEBREAD 
- WKSYS WKSYS 
- wlcsystem wlcsystem 
- wlpisystem wlpisystem 
- WWW WWW 
- WWWUSER WWWUSER 
- XPRT XPRT 
- admin <blank> 
- admin admin 
- root 1234 
- d.e.b.u.g User 
- debug d.e.b.u.g 
- echo echo 
- echo User 
- guest guest 
- guest User 
- Manager Admin 
- Manager Manager 
- sysadm Admin 
- sysadm sysadm 
- write private 
- osmc osmc 
- root@localhost root 
- root Password 
- Admin adm001 
- Guest std001 
- Factory 56789 
- root root 
- user user 
- root <blank> 
- pmd <blank> 
- <blank> bell9 
- <blank> touchpwd= 
- admin admin 
- <blank> <blank> 
- <blank> 1234 
- admin 1234 
- admin 12345 
- admin admin 
- admin setup 
- <blank> 0000 
- admin Bonjour1! 
- monitor monitor 
- superuser superuser 
- tech nician 
- <blank> system 
- admin password 
- <blank> pento 
- PSEAdmin $secure$ 
- admin superuser 
- admin pfsense 
- admin pfsense 
- admin admin 
- operator 1234 
- root default 
- admin admin 
- Administrator admin 
- <blank> admin 
- <blank> admin 
- root <blank> 
- core phpreactor 
- admin 1234 
- guest guest 
- DSL DSL 
- admin admin 
- admin microbusiness 
- admin mu 
- admin smallbusiness 
- user password 
- guest guest 
- <blank> default.password 
- admin [^_^] 
- admin ISPMODE 
- <blank> default 
- admin 1234 
- admin admin 
- admin epicrouter 
- admin 0 
- postgres dbpass 
- postgres svcPASS83 
- SMDR SECONDARY 
- Admin 456 
- User 123 
- <blank> <blank> 
- <blank> ACCORD 
- <blank> admin 
- <blank> x6zynd56 
- administrator * * # 
- Polycom 456 
- Polycom SpIp 
- admin admin 
- admin password 
- dcmadmin passw0rd 
- postgres 123 
- postgres admin 
- postgres amber 
- postgres password 
- postgres postgres 
- postgres <blank> 
- pwrchute pwrchute 
- Administrator Gateway 
- admin 1234 
- <blank> <blank> 
- dos dos 
- fam fam 
- guest guest 
- guest1 guest 
- guest1 guest1 
- mail mail 
- maint maint 
- mfd mfd 
- netlink netlink 
- prime prime 
- prime primeos 
- primenet primenet 
- primenet primeos 
- primeos prime 
- primeos primeos 
- primos_cs prime 
- primos_cs primos 
- system prime 
- system system 
- tele tele 
- test test 
- Administrator <blank> 
- admin password 
- admin admin 
- <blank> 002236 
- admin admin 
- admin admin 
- engmode hawk201 
- administrator password 
- <blank> password 
- <blank> 4321 
- musi1921 Musi%1921 
- admin 123456 
- <blank> 1234 
- <blank> <blank> 
- <blank> public 
- prtgadmin prtgadmin 
- admin admin 
- support h179350 
- admin admin 
- <blank> private 
- <blank> public 
- admin admin 
- admin gnumpf 
- Admin <blank> 
- admin adminadmin 
- <blank> lesarotl 
- <blank> password 
- <blank> QDI 
- admin password 
- images images 
- master master 
- <blank> teX1 
- <blank> xljlbj 
- <blank> <blank> 
- TOAD TOAD 
- guest guest 
- questra questra 
- admin admin 
- guest guest 
- [MULTIPLE] 744 
- <blank> 744 
- <blank> MCUrv 
- admin <blank> 
- lp lp 
- radware radware 
- <blank> raidzone 
- <blank> PASSWORD 
- <blank> rainbow 
- wradmin trancell 
- rsadmin <blank> 
- admin raritan 
- epiq_api raritan 
- web_api sl33p30F00dumass! 
- admin raritan 
- pi raspberry 
- root root 
- <blank> admin 
- admin pw 
- <blank> 1234 
- <blank> private 
- <blank> AMIAMI 
- <blank> AMIDECOD 
- admin admin 
- piranha piranha 
- piranha q 
- piranha piranha 
- piranha q 
- <blank> <blank> 
- admin admin 
- 880175445 11223344 
- ARAdmin AR#Admin# 
- Demo <blank> 
- root toor 
- manager changeme 
- <blank> Col2ogro2 
- root resumix 
- supervisor <blank> 
- <blank> password 
- <blank> sysadm 
- admin <blank> 
- admin password 
- sysadm sysadm 
- sysadmin password 
- admin admin 
- Admin password 
- Admin 123qwe 
- <blank> RM 
- admin rmnetlm 
- admin2 changeme 
- administrator password/changeme or secret 
- adminstrator changeme 
- deskalt password 
- deskman changeme 
- desknorm password 
- deskres password 
- guest <blank> 
- replicator replicator 
- RMUser1 password 
- setup changeme 
- teacher password 
- temp1 password 
- topicalt password 
- topicnorm password 
- topicres password 
- admin demo 
- admin password 
- Admin Admin 
- wVQxyQec eomjbOBLLwbZeiKV 
- Rodopi Rodopi 
- admin admin 
- editor editor 
- guest guest 
- admin password 
- admin admin1234 
- administrator RSAAppliance 
- master themaster01 
- Admin admin 
- admin admin 
- admin admin 
- administrator d1scovery 
- integrator p1nacate 
- monitor monitor 
- operator col1ma 
- admin epicrouter 
- sa DBA!sa@EMSDB123 
- admin admin 
- admin epicrouter 
- Menara Menara 
- root 1234 
- Any Any 
- admin <blank> 
- anonymous <blank> 
- billy-bob <blank> 
- ftp <blank> 
- guest guest 
- admin 1111111 
- admin 4321 
- root admin 
- <blank> <blank> 
- <blank> s!a@m#n$p%c 
- admin password 
- public public 
- user password 
- admin Support 
- admin axis2 
- Administrator manage 
- ctb_admin sap123 
- DDIC 19920706 
- Developer isdev 
- EARLYWATCH SUPPORT 
- itsadmin init 
- Replicator iscopy 
- SAP* 06071992 
- SAP* 7061992 
- SAP* PASS 
- SAPCPIC admin 
- SAPCPIC ADMIN 
- SAPR3 SAP 
- TMSADM <blank> 
- xmi_demo sap123 
- admin Support 
- admin axis2 
- Administrator manage 
- ctb_admin sap123 
- DDIC 19920706 
- Developer isdev 
- EARLYWATCH SUPPORT 
- itsadmin init 
- Replicator iscopy 
- SAP* 06071992 
- SAP* 7061992 
- SAP* PASS 
- SAPCPIC admin 
- SAPCPIC ADMIN 
- SAPR3 SAP 
- TMSADM <blank> 
- xmi_demo sap123 
- sa SECAdmin1 
- SMSAdmin SECAdmin1 
- <blank> admin 
- ntpupdate ntpupdate 
- USER USER 
- sysdiag factorycast@schneider 
- USER USER 
- sysdiag factorycast@schneider 
- USER USER 
- USER USER 
- admin w2402 
- admin admin 
- ADMIN admin 
- USER USER 
- root changeonfirstlogin 
- sa changeonfirstlogin 
- admin <blank> 
- manager friend 
- admin rainbow 
- DESQUETOP <blank> 
- DS <blank> 
- DSA <blank> 
- PHANTOM <blank> 
- admin admin 
- admin <blank> 
- admin admin 
- admin 1234 
- admin admin 
- ADMN admn 
- GEN1 gen1 
- GEN2 gen2 
- root root 
- <blank> <blank> 
- <blank> sysadm 
- admin admin 
- admin Sharp 
- Administrator admin 
- admin 123456 
- admin hello 
- guest <blank> 
- hello hello 
- root <blank> 
- Admin admin1 
- admin changeme 
- <blank> Spacve 
- admin <blank> 
- admin admin 
- <blank> SKY_FOX 
- <blank> uboot 
- 18140815 18140815 
- 31994 31994 
- admin <blank> 
- admin pwp 
- eng engineer 
- op op 
- op operator 
- poll poll 
- poll tech 
- su super 
- sysadmin sysadmin 
- system field 
- system system 
- tech tech 
- WinCCAdmin 2WSXcde 
- WinCCConnect 2WSXcder 
- admin <blank> 
- <blank> <blank> 
- <blank> 0 
- <blank> 123456 
- <blank> admin 
- <blank> gubed 
- <blank> SKY_FOX 
- 31994 31994 
- admin <blank> 
- admin admin 
- admin hagpolm1 
- admin pwp 
- basisk basisk 
- eng engineer 
- op op 
- op operator 
- poll tech 
- su super 
- superuser admin 
- sysadmin sysadmin 
- tech field 
- tech tech 
- user 12345 
- admin admin 
- admin admin 
- Administrator ganteng 
- access <blank> 
- root <blank> 
- 4Dgifts <blank> 
- 4Dgifts 4Dgifts 
- 6.x <blank> 
- demos <blank> 
- Ezsetup <blank> 
- field field 
- guest <blank> 
- lp <blank> 
- OutOfBox <blank> 
- tour tour 
- tutor <blank> 
- tutor tutor 
- admin admin 
- Admin 1234 
- root <blank> 
- admin pass 
- <blank> damin 
- <blank> sitecom 
- admin admin 
- admin password 
- admin b 
- Audrey a 
- Bill b 
- Denny d 
- Lonnie l 
- Minnie m 
- sa skf_admin1 
- <blank> sma 
- admin public 
- admin <blank> 
- <blank> <blank> 
- <blank> 0000 
- <blank> smcadmin 
- admin <blank> 
- admin admin 
- admin barricade 
- Admin Barricade 
- admin smcadmin 
- Administrator smcadmin 
- cusadmin highspeed 
- default WLAN_AP 
- mso w0rkplac3rul3s 
- smc smcadmin 
- admin admin 
- root admin 
- root default 
- <blank> <blank> 
- <blank> 0 
- <blank> 0392a0 
- <blank> 1234 
- <blank> 2read 
- <blank> 4changes 
- <blank> access 
- <blank> adm 
- <blank> admin 
- <blank> Admin 
- <blank> agent 
- <blank> agent_steal 
- <blank> all 
- <blank> ANYCOM 
- <blank> apc 
- <blank> bintec 
- <blank> blue 
- <blank> c 
- <blank> C0de 
- <blank> cable 
- <blank> canon_admin 
- <blank> cc 
- <blank> cisco 
- <blank> CISCO 
- <blank> community 
- <blank> core 
- <blank> CR52401 
- <blank> debug 
- <blank> default 
- <blank> dilbert 
- <blank> enable 
- <blank> field 
- <blank> freekevin 
- <blank> fubar 
- <blank> guest 
- <blank> hello 
- <blank> hp_admin 
- <blank> ibm 
- <blank> IBM 
- <blank> ilmi 
- <blank> ILMI 
- <blank> intermec 
- <blank> Intermec 
- <blank> internal 
- <blank> l2 
- <blank> l3 
- <blank> manager 
- <blank> mngt 
- <blank> monitor 
- <blank> netman 
- <blank> network 
- <blank> NoGaH$@! 
- <blank> openview 
- <blank> OrigEquipMfr 
- <blank> pass 
- <blank> password 
- <blank> pr1v4t3 
- <blank> private 
- <blank> Private 
- <blank> PRIVATE 
- <blank> proxy 
- <blank> publ1c 
- <blank> public 
- <blank> Public 
- <blank> PUBLIC 
- <blank> read 
- <blank> readwrite 
- <blank> red 
- <blank> regional 
- <blank> rmon 
- <blank> rmon_admin 
- <blank> ro 
- <blank> root 
- <blank> router 
- <blank> rw 
- <blank> rwa 
- <blank> s!a@m#n$p%c 
- <blank> san 
- <blank> sanfran 
- <blank> scotty 
- <blank> secret 
- <blank> Secret 
- <blank> SECRET 
- <blank> security 
- <blank> Security 
- <blank> SECURITY 
- <blank> seri 
- <blank> snmp 
- <blank> SNMP 
- <blank> SNMP_trap 
- <blank> snmpd 
- <blank> snmptrap 
- <blank> solaris 
- <blank> sun 
- <blank> SUN 
- <blank> superuser 
- <blank> switch 
- <blank> Switch 
- <blank> SWITCH 
- <blank> system 
- <blank> System 
- <blank> SYSTEM 
- <blank> tech 
- <blank> test 
- <blank> TEST 
- <blank> test2 
- <blank> tiv0li 
- <blank> tivoli 
- <blank> trap 
- <blank> world 
- <blank> write 
- <blank> xyzzy 
- <blank> yellow 
- admi <blank> 
- Administrator 0000 
- Administrator manage 
- manager manager 
- LocalAdministrator #l@$ak#.lk;0@P 
- whd whd 
- aaa often blank 
- root same as webui pwd 
- admin admin 
- root admin 
- admin password 
- admin Sonus12345 
- <blank> 0000 
- <blank> 4x "Enter" button 
- admin admin 
- admin Protector 
- root root 
- <blank> admin 
- admin password 
- root password 
- Admin shs 
- admin admin 
- admin 1234 
- admin 1234 
- administrator <blank> 
- operator <blank> 
- <blank> admin 
- <blank> adminttd 
- admin admin 
- Administrator admin 
- <blank> speedxess 
- admin passwort 
- <blank> hello 
- enable <blank> 
- sa splendidcrm2005 
- admin changeme 
- self system 
- SSA SSA 
- <blank> 2501 
- nasadmin nasadmin 
- root 7ujMko0admin 
- root ascend 
- admin <blank> 
- admin admin 
- stratacom stratauser 
- root ahetzip8 
- stuccoboy 100198 
- root changeme 
- admin admin 
- root changeme 
- root sun123 
- root t00lk1t 
- ssp ssp 
- admin AlpheusDigital1010 
- super super 
- ADMIN ADMIN 
- <blank> ksdjfg934t 
- ADMIN admin 
- ADMIN ADMIN 
- admin admin 
- admin surecom 
- root root 
- <blank> <blank> 
- <blank> admin 
- <blank> blank 
- <blank> mysweex 
- admin 1234 
- admin epicrouter 
- rdc123 rdc123 
- sweex mysweex 
- sweex mysweex 
- target password 
- ftpuser 1234 
- nmt 1234 
- 12.x <blank> 
- DBA SQL 
- jagadmin <blank> 
- sa <blank> 
- sa sasasa 
- <blank> 8888 
- <blank> symantec 
- admin <blank> 
- admin symantec 
- root brightmail 
- <blank> Symbol 
- admin symbol 
- Symbol Symbol 
- guest truetime 
- operator mercury 
- admin superuser 
- admin <blank> 
- default.password <blank> 
- admin 12345 
- install secret 
- <blank> 0 
- <blank> 123456 
- veda 12871 
- Administrator <blank> 
- <blank> 10023 
- <blank> GWrv 
- <blank> TANDBERG 
- admin <blank> 
- Admin <blank> 
- admin TANDBERG 
- root TANDBERG 
- super.super <blank> 
- super.super master 
- Tasman Tasmannet 
- xbox xbox 
- <blank> <blank> 
- admin admin 
- root <blank> 
- admin tegile 
- Administrator <blank> 
- admin 1234 
- telco telco 
- setup setup 
- snmp nopasswd 
- operator <blank> 
- admin 1234 
- eagle eagle 
- admin@company.com admin 
- sa vantage12! 
- admin 1234 
- admin admin 
- admin password 
- <blank> <blank> 
- admin admin 
- root admin_1 
- tellabs tellabs#1 
- 666666 666666 
- 888888 888888 
- admin <blank> 
- admin 1111 
- admin 1111111 
- admin 1234 
- admin 12345 
- admin 123456 
- admin 54321 
- admin 7ujMko0admin 
- admin admin 
- admin admin1234 
- admin meinsm 
- admin pass 
- admin password 
- admin smcadmin 
- admin1 password 
- administrator 1234 
- Administrator admin 
- guest 12345 
- guest guest 
- mother fucker 
- root <blank> 
- root 0 
- root 1111 
- root 1234 
- root 12345 
- root 123456 
- root 54321 
- root 666666 
- root 7ujMko0admin 
- root 7ujMko0vizxv 
- root 888888 
- root admin 
- root anko 
- root default 
- root dreambox 
- root hi3518 
- root ikwb 
- root juantech 
- root jvbzd 
- root klv123 
- root klv1234 
- root pass 
- root password 
- root realtek 
- root root 
- root system 
- root user 
- root vizxv 
- root xc3511 
- root xmhdipc 
- root zlxx. 
- root Zte521 
- service service 
- supervisor supervisor 
- support support 
- tech tech 
- ubnt ubnt 
- user user 
- admin tetra 
- (created) telus00 
- (created) telus99 
- <blank> <blank> 
- admin password 
- james james 
- <blank> 123 
- god1 12345 
- god2 12345 
- admin admin 
- admin admin 
- admin password 
- <blank> admin 
- admin admin 
- admin password 
- <blank> tiara 
- tiara tiaranet 
- admin admin 
- admin changeit 
- theman changeit 
- sa dr8gedog 
- sa Dr8gedog 
- admin admin 
- <blank> Tiny 
- <blank> tiny 
- <blank> Tiny 
- admin admin 
- user user 
- <blank> BIGO 
- admin admin 
- siteadmin toplayer 
- topadmin topadmin 
- superman talent 
- <blank> <blank> 
- <blank> 24Banc81 
- <blank> Toshiba 
- <blank> toshy99 
- admin 123456 
- Admin 123456 
- super superpass 
- onlime_r 12345 
- root 12345 
- admin admin 
- admin admin 
- admin imsa7.0 
- root trendimsa1.0 
- admin imss7.0 
- admin admin 
- admin password 
- t3admin Trintech 
- root TrippLite 
- admin 0 
- admin extendnet 
- managers managers 
- Admin SECRET123 
- <blank> enter 
- craft <blank> 
- admin password 
- <blank> joh316 
- admin password 
- <blank> 12345 
- <blank> admin 
- <blank> amber 
- admin <blank> 
- admin admin 
- Any 12345 
- root 12345 
- root admin 
- support support 
- admin admin 
- root ubnt 
- ubnt ubnt 
- ubnt ubnt 
- <blank> password 
- <blank> password 
- Administrator Unidesk1 
- <blank> 123456 
- root root 
- ADMINISTRATOR ADMINISTRATOR 
- HTTP HTTP 
- NAU NAU 
- admin 1234 
- admin 123456 
- adm <blank> 
- adm adm 
- admin admin 
- administrator <blank> 
- administrator administrator 
- anon anon 
- bbs <blank> 
- bbs bbs 
- bin sys 
- checkfs checkfs 
- checkfsys checkfsys 
- checksys checksys 
- daemon <blank> 
- daemon daemon 
- demo <blank> 
- demo demo 
- demos <blank> 
- demos demos 
- dni <blank> 
- dni dni 
- fal <blank> 
- fal fal 
- fax <blank> 
- fax fax 
- ftp <blank> 
- ftp ftp 
- games <blank> 
- games games 
- gopher gopher 
- gropher <blank> 
- guest <blank> 
- guest guest 
- guest guestgue 
- halt <blank> 
- halt halt 
- informix informix 
- install install 
- lp <blank> 
- lp bin 
- lp lineprin 
- lp lp 
- lpadm lpadm 
- lpadmin lpadmin 
- lynx <blank> 
- lynx lynx 
- mail <blank> 
- mail mail 
- man <blank> 
- man man 
- me <blank> 
- me me 
- mountfs mountfs 
- mountfsys mountfsys 
- mountsys mountsys 
- news <blank> 
- news news 
- nobody <blank> 
- nobody nobody 
- nuucp <blank> 
- operator <blank> 
- operator operator 
- oracle <blank> 
- postmaster <blank> 
- postmaster postmast 
- powerdown powerdown 
- rje rje 
- root <blank> 
- root hp 
- root root 
- service smile 
- setup <blank> 
- setup setup 
- shutdown <blank> 
- shutdown shutdown 
- sync <blank> 
- sync sync 
- sys bin 
- sys sys 
- sys system 
- sysadm admin 
- sysadm sysadm 
- sysadmin sysadmin 
- sysbin sysbin 
- system_admin <blank> 
- system_admin system_admin 
- trouble trouble 
- umountfs umountfs 
- umountfsys umountfsys 
- umountsys umountsys 
- unix unix 
- user user 
- uucp uucp 
- uucpadm uucpadm 
- web <blank> 
- web web 
- webmaster <blank> 
- webmaster webmaster 
- www <blank> 
- www www 
- <blank> password 
- operator operator 
- overseer overseer 
- test test 
- admin admin 
- Any 12345 
- lexar <blank> 
- sa SecurityMaster08 
- admin utstar 
- dbase dbase 
- field field 
- guru *3noguru 
- snmp snmp 
- admin admin 
- root admin 
- admin <blank> 
- admin admin 
- admin 11_ThisIsTheFirstPassword_11 
- admin password 
- <blank> 166816 
- <blank> <blank> 
- admin password 
- admin admin 
- admin password 
- root vertex25 
- <blank> Vextrex 
- sa V4in$ight 
- admin admin 
- supervisor supervisor 
- admin admin 
- <blank> <blank> 
- admin admin 
- vpasp vpasp 
- root QNX 
- admin visual 
- <blank> 1234 
- <blank> 123456 
- <blank> 1988 
- <blank> admin 
- <blank> ADMIN 
- <blank> Admin#1 
- <blank> Administrator 
- <blank> Amx1234! 
- <blank> AVStumpfl 
- <blank> beijer 
- <blank> default 
- <blank> EltakoFVS 
- <blank> elux 
- <blank> eyevis 
- <blank> FELDTECH_VNC 
- <blank> fidel123 
- <blank> hapero 
- <blank> instrument 
- <blank> m9ff.QW 
- <blank> maryland-dstar 
- <blank> muster 
- <blank> pass 
- <blank> pass1 
- <blank> pass2 
- <blank> passwd11 
- <blank> password 
- <blank> Passwort 
- <blank> protech 
- <blank> qwasyx21 
- <blank> raspberry 
- <blank> ripnas 
- <blank> sigmatek 
- <blank> solarfocus 
- <blank> TOUCHLON 
- <blank> user 
- <blank> visam 
- <blank> Vision2 
- <blank> vnc 
- <blank> vnc_pcc 
- <blank> Wyse 
- <blank> Wyse#123 
- <blank> yesco 
- <blank> merlin 
- pw pw 
- voadmin manager 
- user user 
- admin admin 
- vpasp vpasp 
- admin admin 
- guest guest 
- admin waav 
- admin admin 
- <blank> ABCD 
- <blank> Guest 
- <blank> NTCIP 
- <blank> Public 
- CSG SESAME 
- pepino pepino 
- <blank> wg 
- <blank> wg 
- admin <blank> 
- admin admin 
- admin readwrite 
- status readonly 
- user pass 
- Administrator letmein 
- EXAMPLES EXAMPLES 
- monitor password 
- operator password 
- operator weblogic 
- PUBLIC PUBLIC 
- system manager 
- system Passw0rd 
- system password 
- system welcome(1) 
- weblogic weblogic 
- WEBLOGIC WEBLOGIC 
- weblogic weblogic1 
- weblogic welcome(1) 
- system weblogic 
- admin hp.com 
- wradmin trancell 
- system manager 
- admin Detmold 
- admin detmond 
- sa Cardio.Perfect 
- admin <blank> 
- admin password 
- admin password1 
- admin sysAdmin 
- CSG SESAME 
- <blank> Compleri 
- admin <blank> 
- admin 1234 
- admin 12345 
- admin 123456 
- admin admin 
- admin password 
- admin trinity 
- Administrator Administrator 
- Administrator FELDTECH 
- Administrator vagrant 
- administrator Wyse#123 
- demo m9ff.QW 
- IEUser Passw0rd! 
- instrument instrument 
- john Password123! 
- maxadmin maxadmin 
- maxreg maxreg 
- mxintadm mxintadm 
- nmt 1234 
- openhabian openhabian 
- root <blank> 
- secure SecurityMaster08 
- sonos sonos 
- user Wyse#123 
- vagrant vagrant 
- wasadmin wasadmin 
- operator <blank> 
- root rootpass 
- Administrator admin 
- admin 1234 
- aaAdmin pwAdmin 
- aadbo pwddbo 
- aaPower pwPower 
- aaUser pwUser 
- wwAdmin wwAdmin 
- wwdbo wwdbo 
- wwPower wwPower 
- wwUser wwUser 
- WebAdmin Admin 
- WebAdmin WebBoard 
- <blank> Fireport 
- <blank> password 
- rapport r@p8p0r+ 
- root <blank> 
- root wyse 
- VNC winterm 
- 1502 1502 
- super super 
- newuser wampp 
- newuser wampp 
- <blank> <blank> 
- admin admin 
- admin admin 
- xd xd 
- admin 1111 
- 11111 <blank> 
- <blank> 0 
- <blank> 11111 
- <blank> admin 
- 11111 x-admin 
- admin <blank> 
- admin 1111 
- admin 1111 
- admin 2222 
- admin 22222 
- admin admin 
- admin x-admin 
- Administrator Fiery.1 
- NSA nsa 
- savelogs crash 
- openfiler password 
- admin switch 
- diag switch 
- <blank> <blank> 
- <blank> access 
- <blank> system 
- setpriv system 
- admin admin 
- admin admin 
- root ys123456 
- <blank> 727 
- admin !admin 
- User 1234 
- User 19750407 
- Admin zabbix 
- root admin 
- admin password 
- admin 1234 
- admin 1234 
- admin 0000 
- <blank> 1234 
- <blank> 1851 
- admin alphaadmin 
- ADMIN alphacom 
- <blank> 3098z 
- <blank> Zenith 
- <blank> zeosx 
- admin <blank> 
- admin zoomadsl 
- admin zoomadsl 
- admin admin 
- on on 
- root W!n0&oO7. 
- root Zte521 
- user user 
- ZXDSL ZXDSL 
- ADSL expert03 
- <blank> admin 
- zyfwp PrOw!aN_fXp 
- devicehaecived 1234 
- <blank> <blank> 
- <blank> 1234 
- <blank> admin 
- 1234 1234 
- 192.168.1.1 60020 @dsl_xilno 
- admin <blank> 
- admin 0000 
- admin 1234 
- admin admin 
- Admin atc456 
- root 1234 
- webadmin 1234 
+admin admin
+&lt;blank&gt; &lt;blank&gt;
+&lt;blank&gt; 12345
+&lt;blank&gt; 1234admin
+&lt;blank&gt; admin
+&lt;blank&gt; ANYCOM
+&lt;blank&gt; comcomcom
+&lt;blank&gt; ILMI
+&lt;blank&gt; PASSWORD
+admin &lt;blank&gt;
+admin 1234admin
+Admin Admin
+admin comcomcom
+admin password
+admin synnet
+Administrator &lt;blank&gt;
+Administrator admin
+adminttd adminttd
+debug synnet
+defug synnet
+manager manager
+monitor monitor
+read synnet
+recover recover
+recovery recovery
+root !root
+security security
+tech &lt;blank&gt;
+tech tech
+Type User   FORCE &lt;blank&gt;
+User Password
+write synnet
+VOL-0215 &lt;blank&gt;
+volition &lt;blank&gt;
+volition volition
+Administrator 3ware
+admin 33aastra
+sysadm anicust
+&lt;blank&gt; 0
+__super (caclulated)
+&lt;blank&gt; 0000
+acer acer
+admin 12345
+Admin 12345
+admin 123456
+Admin 123456
+Administrator adaptec
+&lt;blank&gt; secret
+Admin1 Admin1
+root router
+admin secure
+adip admin
+adip consul
+adip insta
+anonymous anonymous
+aparker@geometrixx.info aparker
+author author
+jdoe@geometrixx.info jdoe
+replication-receiver &lt;blank&gt;
+replication-receiver replication-receiver
+vgnadmin vgnadmin
+sysadmin master
+&lt;blank&gt; 2580
+root ax400
+&lt;blank&gt; adtran
+&lt;blank&gt; Password
+&lt;blank&gt; Advance
+Airaya Airaya
+gdadmin admin
+akkadianuser akkadianpassword
+PMEAdmin PMEAdmin
+SBAdmin SBAdmin123
+root kn1TG7psLu
+&lt;blank&gt; 1064
+&lt;blank&gt; 151515
+adfexc adfexc
+admin switch
+at4400 at4400
+client client
+dhs3mt dhs3mt
+dhs3pms dhs3pms
+diag switch
+ftp_admi kilo1987
+ftp_inst pbxk1064
+ftp_nmc tuxalize
+ftp_oper help1954
+halt tlah
+install llatsni
+kermit kermit
+mtch mtch
+mtcl &lt;blank&gt;
+mtcl mtcl
+root letacla
+root permit
+SUPERUSER ANS#150
+superuser superuser
+alien alien
+root alien
+&lt;blank&gt; manager
+manager admin
+manager friend
+root &lt;blank&gt;
+secoff secoff
+admin allot
+root bagabu
+admin linga
+root root
+user user
+admin 9999
+&lt;blank&gt; A.M.I
+&lt;blank&gt; aammii
+&lt;blank&gt; AM
+&lt;blank&gt; AMI
+&lt;blank&gt; AMI_SW
+&lt;blank&gt; AMI!SW
+&lt;blank&gt; AMI?SW
+&lt;blank&gt; AMI.KEY
+&lt;blank&gt; AMI.KEZ
+&lt;blank&gt; AMI~
+&lt;blank&gt; AMIAMI
+&lt;blank&gt; AMIDECOD
+&lt;blank&gt; AMIPSWD
+&lt;blank&gt; AMISETUP
+&lt;blank&gt; BIOSPASS
+&lt;blank&gt; CMOSPWD
+&lt;blank&gt; HEWITT RAND
+admin epicrouter
+&lt;blank&gt; leaves
+&lt;blank&gt; snake
+admin pass
+&lt;blank&gt; Polrty
+&lt;blank&gt; 1988
+admin 1988
+Admin 1988
+administrator password
+Administrator vision2
+guest guest
+NetLinx password
+root mozart
+acc acc
+admin paris
+monitor anevia
+root antsle
+jj &lt;blank&gt;
+ADMIN ADMIN
+admin j5Brn9
+admin tomcat
+cxsdk kdsxc
+j2deployer j2deployer
+ovwebusr OvW*busr1
+QCC QLogic66
+role changethis
+role1 role1
+role1 tomcat
+tomcat changethis
+tomcat s3cret
+tomcat tomcat
+xampp xampp
+admin jboss4
+both tomcat
+root changethis
+apc apc
+device apc
+readonly apc
+&lt;blank&gt; TENmanUFactOryPOWER
+(any) TENmanUFactOryPOWER
+&lt;blank&gt; backdoor
+&lt;blank&gt; serial number of the Call-UPS
+&lt;blank&gt; serial number of the Share-UPS
+device device
+POWERCHUTE APC
+&lt;blank&gt; public
+&lt;blank&gt; xyzzy
+root alpine
+root dottie
+&lt;blank&gt; password
+admin public
+mobile dottie
+root admin
+scout scout
+admin 0
+&lt;blank&gt; atc123
+ARIS9 *ARIS!1dm9n#
+admin system
+123 234
+admin asante
+IntraStack Asante
+IntraSwitch Asante
+superuser &lt;blank&gt;
+superuser asante
+&lt;blank&gt; ascend
+readonly lucenttech2
+readwrite lucenttech1
+root ascend
+&lt;blank&gt; 3ascotel
+support support
+customer &lt;blank&gt;
+DTA TJM
+&lt;blank&gt; SnuFG5
+Admin admin
+adsl adsl1234
+remotessh 5SaP9I26
+&lt;blank&gt; mcp
+user &lt;blank&gt;
+operator 1234
+Service 5678
+admin atlantis
+disabledsystemuser disabled1system1user6708
+crowd-openid-server password
+Crowd password
+Demo password
+Username password
+atx atx
+&lt;blank&gt; telos
+autocad autocad
+webadmin webadmin
+&lt;blank&gt; Craftr4
+admin admin123
+admin barney
+Administrator ggdaseuaimhrke
+craft &lt;blank&gt;
+craft crftpw
+Craft crftpw
+dadmin dadmin
+dadmin dadmin01
+diag danger
+manuf xxyyzz
+root cms500
+root ggdaseuaimhrke
+root ROOT500
+&lt;blank&gt; Administrative
+root tslinux
+&lt;blank&gt; ?award
+&lt;blank&gt; 1322222
+&lt;blank&gt; 256256
+&lt;blank&gt; 589589
+&lt;blank&gt; 589721
+&lt;blank&gt; alfarome
+&lt;blank&gt; aLLy
+&lt;blank&gt; aPAf
+&lt;blank&gt; award
+&lt;blank&gt; Award
+&lt;blank&gt; AWARD SW
+&lt;blank&gt; award_?
+&lt;blank&gt; award_ps
+&lt;blank&gt; AWARD_PW
+&lt;blank&gt; AWARD_SW
+&lt;blank&gt; AWARD?SW
+&lt;blank&gt; award.sw
+&lt;blank&gt; awkward
+&lt;blank&gt; BIOS
+&lt;blank&gt; biosstar
+&lt;blank&gt; biostar
+&lt;blank&gt; CONCAT
+&lt;blank&gt; CONDO
+&lt;blank&gt; condo
+&lt;blank&gt; djonet
+&lt;blank&gt; efmukl
+&lt;blank&gt; g6PJ
+&lt;blank&gt; h6BB
+&lt;blank&gt; HELGA-S
+&lt;blank&gt; HLT
+&lt;blank&gt; j09F
+&lt;blank&gt; j256
+&lt;blank&gt; j262
+&lt;blank&gt; j322
+&lt;blank&gt; j64
+&lt;blank&gt; lkw peter
+&lt;blank&gt; lkwpeter
+&lt;blank&gt; SER
+&lt;blank&gt; setup
+&lt;blank&gt; SKY_FOX
+&lt;blank&gt; SW_AWARD
+&lt;blank&gt; SWITCHES_SW
+&lt;blank&gt; Sxyz
+&lt;blank&gt; SY_MB
+&lt;blank&gt; SZYX
+&lt;blank&gt; t0ch20x
+&lt;blank&gt; t0ch88
+&lt;blank&gt; TTPTHA
+&lt;blank&gt; TzqF
+&lt;blank&gt; wodj
+&lt;blank&gt; ZAAADA
+&lt;blank&gt; zbaaaca
+&lt;blank&gt; zjaaadc
+root pass
+setup setup
+isp isp
+root toor
+&lt;blank&gt; clickshare
+ssladmin ssladmin
+&lt;blank&gt; NetICs
+Manager &lt;blank&gt;
+User &lt;blank&gt;
+system weblogic
+musi1921 Musii%1921
+&lt;blank&gt; MiniAP
+root password
+bewan bewan
+&lt;blank&gt; snmp-Trap
+admin bintec
+admin funkwerk
+Admin No
+&lt;blank&gt; Babylon
+config biodata
+&lt;blank&gt; Biostar
+&lt;blank&gt; Q54arwms
+Admin ImageFolio
+admin nimda
+Administrator public
+Blaeri 22332323
+admin articon
+Administrator the same all over
+Best1_User BackupU$r
+patrol patrol
+USER USER
+politically correct
+sa RPSsql12345
+live live
+service service
+&lt;blank&gt; Helpdesk
+&lt;blank&gt; laflaf
+&lt;blank&gt; Master
+&lt;blank&gt; Super
+installer installer
+admin brocade1
+factory Fact4EMC
+root fibranne
+root fivranne
+root Serv4EMC
+user password
+admin access
+&lt;blank&gt; 00000000
+&lt;blank&gt; 12345678
+&lt;blank&gt; access
+Admin &lt;blank&gt;
+Guest Guest
+nqadmin nq
+nquser nq
+pamadmin pamadmin
+admin 1234
+netman &lt;blank&gt;
+root camera
+7654321 7654321
+&lt;blank&gt; 1234567890
+KeyOperator DV5800
+LocalService DV5800
+} &lt;blank&gt;
+admin (serial number)
+sa PracticeUser1
+mediator mediator
+root Mua'dib
+cellit cellit
+admin centreon
+root tooridu
+&lt;blank&gt; protection
+&lt;blank&gt; iolan
+admin adminadmin
+admin abc123
+administrator adminpass
+cisco cisco
+pix cisco
+Cisco Cisco
+cisco admin
+&lt;blank&gt; riverhead
+&lt;blank&gt; _Cisco
+&lt;blank&gt; c
+&lt;blank&gt; cable-docsis
+&lt;blank&gt; cc
+&lt;blank&gt; changeit
+&lt;blank&gt; cisco
+&lt;blank&gt; Cisco
+&lt;blank&gt; Cisco router
+&lt;blank&gt; letmein
+&lt;blank&gt; public/private/secret
+admin changeme
+admin cisco
+admin default
+admin diamond
+admin localadmin
+admin tsunami
+Administrator changeme
+bbsd-client &lt;blank&gt;
+bbsd-client changeme2
+bubba (unknown)
+cisco &lt;blank&gt;
+CISCO15 otbu+1
+cmaker cmaker
+EAdmin &lt;blank&gt;
+enable &lt;blank&gt;
+enable cisco
+End User 7936
+ESubscriber &lt;blank&gt;
+guest &lt;blank&gt;
+hsa hsadb
+netrangr attack
+pnadmin pnadmin
+praisenetwork perfectpraise
+private ReadWrite access secret
+public ReadOnly access secret
+ripeop &lt;blank&gt;
+root attack
+root blender
+root Cisco
+root secur4u
+sa &lt;blank&gt;
+technician 2 + last 4 of Audio
+UAMIS_ &lt;blank&gt;
+UNITY_ &lt;blank&gt;
+UOMNI_ &lt;blank&gt;
+UVPIM_ &lt;blank&gt;
+uwmadmin password
+wlse wlsedb
+wlseuser wlsepassword
+&lt;blank&gt; citel
+citel password
+nsroot nsroot
+root rootadmin
+&lt;blank&gt; familymacintosh
+clearone converge
+ClearOne RAV
+admin eTIPS123
+Admin epicrouter
+comcast &lt;blank&gt;
+cusadmin CantTouchThis
+cusadmin highspeed
+admin dmr99
+mydlp mydlp
+&lt;blank&gt; Compaq
+administrator administrator
+anonymous &lt;blank&gt;
+operator operator
+PFCUser 240653C9467E45
+root manager
+root rootme
+user public
+administrator asecret
+anonymous password
+&lt;blank&gt; last
+&lt;blank&gt; epicrouter
+admin amigosw1
+admin conexant
+Adam 29111991
+&lt;blank&gt; ducati900ss
+root t0talc0ntr0l4!
+corecess corecess
+&lt;blank&gt; x40rocks
+egcr ergc
+&lt;blank&gt; Crystal
+&lt;blank&gt; CTX_123
+cgadmin cgadmin
+&lt;blank&gt; Congress
+cyber cyber
+device cyber
+Administrator ChangeMe1#
+super surt
+&lt;blank&gt; private
+admin gvt12345
+admin year2000
+Alphanetworks wrgg15_di524
+D-Link D-Link
+dont need one admin
+Clarissa &lt;blank&gt;
+&lt;blank&gt; Daewuu
+root tini
+ioFTPD ioFTPD
+Test Everything &lt;blank&gt;
+op op
+op operator
+sysadm sysadm
+test test
+anonymous any
+anonymous any@
+davox davox
+root davox
+&lt;blank&gt; Daytec
+ADONIS BPMS
+dasusr1 dasusr1
+db2admin db2admin
+db2fenc1 db2fenc1
+db2inst1 db2inst1
+db2inst1 db2pass
+db2inst1 db2password
+db2inst1 db2pw
+&lt;blank&gt; tatercounter2000
+operator admin
+MDaemon MServer
+root calvin
+&lt;blank&gt; 1RRWTTOOI
+&lt;blank&gt; Dell
+&lt;blank&gt; Fireport
+&lt;blank&gt; nz0u4bbe
+Administrator storageserver
+rapport r@p8p0r+
+root wyse
+VNC winterm
+admin my_DEMARC
+&lt;blank&gt; BRIDGE
+NETOP &lt;blank&gt;
+NETWORK NETWORK
+PBX PBX
+admin michelangelo
+Yak asd123
+&lt;blank&gt; 1
+&lt;blank&gt; ACCESS
+&lt;blank&gt; komprie
+&lt;blank&gt; system
+&lt;blank&gt; SYSTEM
+1 manager
+1 operator
+1 syslib
+1.1 SYSTEM
+2 maintain
+2 manager
+2 operator
+2 syslib
+30 games
+5 games
+7 maintain
+accounting accounting
+ALLIN1 ALLIN1
+ALLIN1MAIL ALLIN1MAIL
+ALLINONE ALLINONE
+BACKUP BACKUP
+BATCH BATCH
+boss boss
+DCL DCL
+DECMAIL DECMAIL
+DECNET DECNET
+DECNET NONPRIV
+DEFAULT DEFAULT
+DEFAULT USER
+demo demo
+DEMO DEMO
+FIELD DIGITAL
+FIELD FIELD
+FIELD SERVICE
+FIELD TEST
+GUEST GUEST
+HELP HELP
+HELPDESK HELPDESK
+HOST HOST
+INFO INFO
+INGRES INGRES
+LINK LINK
+MAILER MAILER
+MBMANAGER MBMANAGER
+MBWATCH MBWATCH
+NETCON NETCON
+NETMGR NETMGR
+NETNONPRIV NETNONPRIV
+NETPRIV NETPRIV
+NETSERVER NETSERVER
+NEWINGRES NEWINGRES
+NEWS NEWS
+OPERVAX OPERVAX
+PDP11 PDP11
+PDP8 PDP8
+POSTMASTER POSTMASTER
+PRIV PRIV
+REPORT REPORT
+RJE RJE
+software software
+STUDENT STUDENT
+SYS SYS
+SYSMAINT DIGITAL
+SYSMAINT SERVICE
+SYSMAINT SYSMAINT
+SYSTEM MANAGER
+SYSTEM OPERATOR
+SYSTEM SYSLIB
+SYSTEM SYSTEM
+SYSTEST_CLIG SYSTEST
+SYSTEST_CLIG SYSTEST_CLIG
+SYSTEST UETP
+TELEDEMO TELEDEMO
+TEST TEST
+UETP UETP
+USER PASSWORD
+USERP USERP
+VAX VAX
+VMS VMS
+viewer &lt;blank&gt;
+&lt;blank&gt; 12341234
+1234 1234
+root 12345
+scwuser scw12345user
+admin dnnadmin
+host dnnhost
+draytek 1234
+Draytek 1234
+&lt;blank&gt; Last 4 digits of VIN
+admin 7ujMko0admin
+root 7ujMko0admin
+root vizxv
+root par0t
+dvstation dvst10n
+root pixmet2003
+admin private
+userNotUsed userNotU
+circ &lt;blank&gt;
+LIBRARY &lt;blank&gt;
+SETUP &lt;blank&gt;
+admin 8005
+sa $easyWinArt4
+ilon ilon
+admin 123
+admin su@psir
+edimax software01
+guest 1234
+&lt;blank&gt; 4getme2
+&lt;blank&gt; hs7mwxkk
+login admin
+login password
+superuser admin
+builtin builtin
+sa Ektron
+elastic changeme
+(hostname/ipaddress) sysadmin
+emaq 4133
+backuponly backuponly1
+backuprestore backuprestore1
+dpn changeme
+MCUser MCUser1
+restoreonly restoreonly1
+root 8RttoTriz
+root changeme
+viewuser viewuser1
+sa 42Emerson42Eme
+Admin Emerson1
+root epp2011
+admin enhydra
+&lt;blank&gt; xo11nE
+&lt;blank&gt; netadmin
+admin netadmin
+tiger tiger123
+websecadm changeme
+computer repair
+admin store
+&lt;blank&gt; central
+EPSONWEB admin
+root MuZhlo9n%8!G
+public &lt;blank&gt;
+&lt;blank&gt; help
+expert expert
+MD110 help
+netman netman
+Admin 1234
+root jstwo
+admin 00000000
+&lt;blank&gt; 11111111
+supervisor supervisor
+anonymous Exabyte
+admin admin256
+user user5710
+admin exinda
+admin extendnet
+&lt;blank&gt; EyesOfNetwork
+admin publish
+root default
+support &lt;blank&gt;
+fastwire fw
+firstsite firstsite
+fwadmin xceladmin
+SYSDBA masterkey
+maintainer admin
+maintainer bcpb+serial#
+&lt;blank&gt; bcpb(serial number of the firewall)
+maintainer bcpb[SERIAL NO.]
+maintainer pbcpbn(add-serial-number)
+&lt;blank&gt; Posterie
+master access
+ftp ftp
+&lt;blank&gt; connect
+&lt;blank&gt; fi-scanner
+manage !manage
+admin radius
+Sysop Sysop
+&lt;blank&gt; console
+&lt;blank&gt; gandalf
+&lt;blank&gt; xmux
+museadmin Muse!Admin
+install install
+username password
+admin gnos
+admin jiocentrum
+admin 5iveL!fe
+admin@local.host 5iveL!fe
+root 5iveL!fe
+glftpd glftpd
+DSL DSL
+admin urchin
+End User 123 (or blank)
+admin broadband
+netadmin nimdaten
+Admin5 4tugboat
+&lt;blank&gt; guardone
+n.a guardone
+ucenik23 ucenik
+admin manager
+system isp
+lansweeperuser mysecretpassword0*
+&lt;blank&gt; hewlpack
+admin hp.com
+admin isee
+Administrator The last eight digits of the serial number
+ADVMAIL &lt;blank&gt;
+ADVMAIL HP
+ADVMAIL HPOFFICE DATA
+Anonymous &lt;blank&gt;
+FIELD &lt;blank&gt;
+FIELD HPONLY
+FIELD HPP187 SYS
+FIELD HPWORD PUB
+FIELD LOTUS
+FIELD MANAGER
+FIELD MGR
+FIELD SUPPORT
+HELLO FIELD.SUPPORT
+HELLO MANAGER.SYS
+HELLO MGR.SYS
+HELLO OP.OPERATOR
+HPSupport badg3r5
+MAIL HPOFFICE
+MAIL MAIL
+MAIL MPE
+MAIL REMOTE
+MAIL TELESUP
+MANAGER COGNOS
+MANAGER HPOFFICE
+MANAGER ITF3000
+MANAGER SECURITY
+MANAGER SYS
+MANAGER TCH
+MANAGER TELESUP
+MGE VESOFT
+MGR CAROLIAN
+MGR CCC
+MGR CNAS
+MGR COGNOS
+MGR CONV
+MGR HPDESK
+MGR HPOFFICE
+MGR HPONLY
+MGR HPP187
+MGR HPP189
+MGR HPP196
+MGR INTX3
+MGR ITF3000
+MGR NETBASE
+MGR REGO
+MGR RJE
+MGR ROBELLE
+MGR SECURITY
+MGR SYS
+MGR TELESUP
+MGR VESOFT
+MGR WORD
+MGR XLSERVER
+Oper Oper
+OPERATOR COGNOS
+OPERATOR DISC
+OPERATOR SUPPORT
+OPERATOR SYS
+OPERATOR SYSTEM
+PCUSER SYS
+RSBCMON SYS
+SPOOLMAN HPOFFICE
+WP HPOFFICE
+RAID hpt
+admin hipchat
+&lt;blank&gt; 0300
+&lt;blank&gt; 1900
+roo honey
+root honey
+LocalComServer LCS pwd 03
+TPSLocalServer TLS pwd 03
+&lt;blank&gt; foolproof
+AdvWebadmin advcomm500349
+admin opsware_admin
+ibrix ibrix
+root hpinvent
+&lt;blank&gt; AUTORAID
+admin !admin
+Factory 56789
+digicel digicel
+telecomadmin admintelecom
+user HuaweiUser
+vodafone vodafone
+TMAR#HWMT8007079 &lt;blank&gt;
+hqadmin hqadmin
+I2b2demodata i2b2demodata
+I2b2demodata2 i2b2demodata2
+I2b2hive i2b2hive
+I2b2metadata i2b2metadata
+I2b2metadata2 i2b2metadata2
+I2b2workdata i2b2workdata
+I2b2workdata2 i2b2workdata2
+USERID PASSW0RD
+maxadmin maxadmin
+maxreg maxreg
+mxintadm mxintadm
+admin admin0001
+root Passw0rd
+superuser passw0rd
+ucdpadmin ucdpadmin
+wasadmin wasadmin
+&lt;blank&gt; IBM
+&lt;blank&gt; MBIU0
+&lt;blank&gt; R1QTPS
+&lt;blank&gt; sertafu
+$ALOC$ &lt;blank&gt;
+$SRV $SRV
+11111111 11111111
+22222222 22222222
+ADMIN &lt;blank&gt;
+AP2SVP &lt;blank&gt;
+APL2PP &lt;blank&gt;
+AUTOLOG1 &lt;blank&gt;
+BATCH &lt;blank&gt;
+BATCH1 &lt;blank&gt;
+BATCH2 &lt;blank&gt;
+CCC &lt;blank&gt;
+CICSUSER CISSUS
+CMSBATCH &lt;blank&gt;
+CMSBATCH CMSBATCH
+CMSUSER &lt;blank&gt;
+CPNUC &lt;blank&gt;
+CPRM &lt;blank&gt;
+CSPUSER &lt;blank&gt;
+CVIEW &lt;blank&gt;
+DATAMOVE &lt;blank&gt;
+DBDCCICS DBDCCIC
+DEMO1 &lt;blank&gt;
+DEMO2 &lt;blank&gt;
+DEMO3 &lt;blank&gt;
+DEMO4 &lt;blank&gt;
+DIRECT &lt;blank&gt;
+DIRMAINT &lt;blank&gt;
+DISKCNT &lt;blank&gt;
+EREP &lt;blank&gt;
+ESSEX &lt;blank&gt;
+fg_sysadmin password
+FORSE FORSE
+FSFADMIN &lt;blank&gt;
+FSFTASK1 &lt;blank&gt;
+FSFTASK2 &lt;blank&gt;
+GCS &lt;blank&gt;
+hscroot abc123
+ibm 2222
+ibm password
+ibm service
+IBMUSER SYS1
+IDMS &lt;blank&gt;
+IDMSSE &lt;blank&gt;
+IIPS &lt;blank&gt;
+IPC &lt;blank&gt;
+IPFSERV &lt;blank&gt;
+ISPVM &lt;blank&gt;
+IVPM1 &lt;blank&gt;
+IVPM2 &lt;blank&gt;
+MAINT &lt;blank&gt;
+MAINT MAINT
+MOESERV &lt;blank&gt;
+NEVIEW &lt;blank&gt;
+OLTSEP &lt;blank&gt;
+OP1 &lt;blank&gt;
+OPER OPER
+OPERATIONS OPERATIONS
+OPERATNS &lt;blank&gt;
+OPERATNS OPERATNS
+OPERATOR &lt;blank&gt;
+Operator Operator
+PDMREMI &lt;blank&gt;
+PENG &lt;blank&gt;
+POST BASE
+PROCAL &lt;blank&gt;
+PRODBM &lt;blank&gt;
+PRODCICS PRODCICS
+PROG PROG
+PROMAIL &lt;blank&gt;
+PSFMAINT &lt;blank&gt;
+PVM &lt;blank&gt;
+qpgmr qpgmr
+qsecofr 11111111
+qsecofr 22222222
+qsecofr qsecofr
+qserv qserv
+QSRV 11111111
+QSRV 22222222
+qsrv qsrv
+QSRV QSRV
+qsrvbas qsrvbas
+qsvr ibmcel
+qsvr qsvr
+qsysopr qsysopr
+quser quser
+RDM470 &lt;blank&gt;
+root passw0rd
+ROUTER &lt;blank&gt;
+RSCS &lt;blank&gt;
+RSCSV2 &lt;blank&gt;
+SAVSYS &lt;blank&gt;
+secofr secofr
+sedacm secacm
+SFCMI &lt;blank&gt;
+SFCNTRL &lt;blank&gt;
+SMART &lt;blank&gt;
+SQLDBA &lt;blank&gt;
+SQLUSER &lt;blank&gt;
+storwatch specialist
+superadmin secret
+SYSA SYSA
+SYSADMIN &lt;blank&gt;
+SYSCKP &lt;blank&gt;
+SYSDUMP1 &lt;blank&gt;
+SYSERR &lt;blank&gt;
+sysopr sysopr
+SYSWRM &lt;blank&gt;
+TDISK &lt;blank&gt;
+TEMP &lt;blank&gt;
+TSAFVM &lt;blank&gt;
+user USERP
+USERID PASSWORD
+VASTEST &lt;blank&gt;
+VCSRV VCSRV
+VM3812 &lt;blank&gt;
+VMARCH &lt;blank&gt;
+VMASMON &lt;blank&gt;
+VMASSYS &lt;blank&gt;
+VMBACKUP &lt;blank&gt;
+VMBSYSAD &lt;blank&gt;
+VMMAP &lt;blank&gt;
+VMTAPE &lt;blank&gt;
+VMTLIBR &lt;blank&gt;
+VMUTIL &lt;blank&gt;
+VSEIPO &lt;blank&gt;
+VSEMAINT &lt;blank&gt;
+VSEMAN &lt;blank&gt;
+vt100 public
+VTAM &lt;blank&gt;
+VTAM VTAM
+VTAMUSER &lt;blank&gt;
+webadmin webibm
+wpsadmin wpsadmin
+root icatch99
+admin P@55w0rd!
+root iDirect
+sa $ei$micMicro
+informix informix
+admin infrant1
+admin ip20
+admin ip21
+admin ip3000
+admin ip305Beheer
+admin ip400
+iclock timely
+Administrator letmein
+Administrator 1234
+Administrator 12345678
+Administrator 19750407
+&lt;blank&gt; Intel
+&lt;blank&gt; isolation
+&lt;blank&gt; shiva
+Guest &lt;blank&gt;
+intel intel
+khan kahn
+NICONEX NICONEX
+admin hello
+administrator 1234
+admn password
+&lt;blank&gt; intermec
+intermec intermec
+admin letmein
+operator $chwarzepumpe
+system sys
+admin operator
+XXSESS_MGRYY X#1833
+root system
+&lt;blank&gt; FOOBAR
+admin NetSurvibox
+admin ironport
+&lt;blank&gt; iwill
+jamfsoftware jamfsw03
+admin Janitza
+guest Janitza
+Homepage Password 0th
+user Janitza
+jasperadmin bitnami
+jasperadmin jasperadmin
+joeuser joeuser
+JDE JDE
+PRODDTA PRODDTA
+hydrasna &lt;blank&gt;
+Jetform &lt;blank&gt;
+&lt;blank&gt; spooml
+johnson control
+&lt;blank&gt; 57gbzb
+&lt;blank&gt; technolgi
+admin &lt;&lt;&lt; %s(un=\'%s\') = %u.
+admin netscreen
+admin peribit
+netscreen netscreen
+redline redline
+serial# serial#
+super juniper123
+netscreen &lt;&lt;&lt; %s(un='%s') = %u
+admin jvc
+jvc skaarhoj
+&lt;blank&gt; 3477
+&lt;blank&gt; 8111
+kali kali
+admin adslroot
+administrator &lt;blank&gt;
+keyscan KEYSCAN
+PACSLinkIP NetServer
+PLMIMService NetServer
+RNIServiceManager NetServer
+SA PASSWORD
+Service Service
+kodi kodi
+&lt;blank&gt; 1234
+&lt;blank&gt; MagiMFP
+&lt;blank&gt; sysadm
+&lt;blank&gt; sysAdmin
+admin administrator
+Admin adminpw
+SuperUser kronites
+superuser 123456
+&lt;blank&gt; admin00
+2800 2800
+supervisor &lt;blank&gt;
+dev dev
+WEBADM password
+&lt;blank&gt; lantronix
+login access
+sysadmin PASS
+ADMIN AIMS
+FB AIMS
+lam lam
+&lt;blank&gt; MASTER
+LENEL MULTIMEDIA
+admin leviton
+&lt;blank&gt; jannie
+vikram singh
+LR-ISDN LR-ISDN
+Liebert Liebert
+ADMINISTRATOR SENTINEL
+SENTINEL SENTINEL
+linksys &lt;blank&gt;
+comcast 1234
+root orion99
+user tivonpw
+gonzo &lt;blank&gt;
+root uClinux
+satan &lt;blank&gt;
+snake &lt;blank&gt;
+ssadmin sspassword
+!root &lt;blank&gt;
+setup changeme!
+root logapp
+toor logapp
+(any 3 characters) cascade
+(any 3 chars) cascade
+&lt;blank&gt; cascade
+admin AitbISP4eCiG
+admin Ascend
+bciim bciimpw
+bcim bcimpw
+bcms bcmspw
+bcnas bcnaspw
+blue bluepw
+browse browsepw
+browse looker
+craft craft
+craft craftpw
+cust custpw
+enquiry enquirypw
+field support
+inads inads
+inads indspw
+init initpw
+locate locatepw
+LUCENT01 UI-PSWD-01
+LUCENT02 UI-PSWD-02
+maint maintpw
+maint rwmaint
+nms nmspw
+pw pwpw
+rcust rcustpw
+super super
+support supportpw
+sysadm admpw
+sysadm sysadmpw
+sysadm syspw
+tech field
+Admin password
+administrator 19750407
+&lt;blank&gt; mMmM
+admin mono
+&lt;blank&gt; sp99dd
+admin 123123
+&lt;blank&gt; prost
+MCVEADMIN password
+admin %89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01
+admin boca raton
+administrator root
+&lt;blank&gt; 000000
+ami &lt;blank&gt;
+scmadmin scmchangeme
+webshield webshieldchangeme
+Administrator password
+McdataSE redips
+sa M3d!aP0rtal
+&lt;blank&gt; medion
+mcUser medocheck123
+&lt;blank&gt; star
+root timeserver
+memotec supervisor
+MICRO RSX
+service smile
+msf msf
+msfdev msfdev
+admin phplist
+sa SilkCentral12!34
+admin superuser
+&lt;blank&gt; sldkj754
+&lt;blank&gt; xyzall
+mac &lt;blank&gt;
+&lt;blank&gt; dn_04rjc
+&lt;blank&gt; sa
+Administrator Administrator
+IS_$hostname IS_$hostname
+LDAP_Anonymous LdapPassword_1
+LessonUser1 &lt;blank&gt;
+LessonUser2 &lt;blank&gt;
+MSHOME MSHOME
+User User
+bsxuser bsxpass
+operator &lt;blank&gt;
+1nstaller 5X2000
+installer sx2000
+maint1 sx2000
+maint2 sx2000
+s1stem 5X2000
+system sx2000
+installer 1000
+system mnet
+system password
+root blablabla
+admin meinsm
+IEUser D@rj33l1ng
+admin motorola
+cablecom router
+setup &lt;blank&gt;
+technician yZgO8Bvj
+admin mp3mystic
+SYSADM sysadm
+ADONI BPMS
+sa password
+sa Password123
+sa sa
+sa sqlserver
+admin muze
+admin@example.com admin
+superdba admin
+GlobalAdmin GlobalAdmin
+admin NetSeq
+cic cic
+cic cic!23456789
+cic Cic!23456789
+sa cic
+sa cic!23456789
+sa Cic!23456789
+root ciwuxe
+ncrm ncrm
+&lt;blank&gt; iPbSmNt
+admin NetCache
+netbotz netbotz
+&lt;blank&gt; zebra
+admin draadloos
+admin netgear1
+admin setup
+Gearguy Geardog
+super 5777364
+superman 21241036
+naadmin naadmin
+admin noway
+factory (see note)
+netopia netopia
+e250 e250changeme
+e500 e500changeme
+iceman &lt;blank&gt;
+admin netxms
+bootstrap generated
+ADMIN PASSWORD
+me &lt;blank&gt;
+root NeXT
+signa signa
+admin asd
+Administrator nicecti
+Nice-admin nicecti
+vcr NetVCR
+&lt;blank&gt; xdfk9874t3
+&lt;blank&gt; 9999
+&lt;blank&gt; nokai
+&lt;blank&gt; nokia
+&lt;blank&gt; Telecom
+m1122 m1122
+nop 12345
+nop 123454
+root nokia
+Security Code 12345
+telecom telecom
+Telecom Telecom
+**23646 23646
+**266344 266344
+&lt;blank&gt; 266344
+&lt;blank&gt; l1
+&lt;blank&gt; l2
+&lt;blank&gt; ro
+&lt;blank&gt; rw
+&lt;blank&gt; rwa
+&lt;blank&gt; secure
+266344 266344
+admin 000000
+admin admin000
+admin root
+administrator PlsChgMe!
+ccrusr ccrusr
+conferencing admin
+debug gubed
+distrib distrib0
+disttech 4tas
+disttech disttech
+disttech etas
+l2 l2
+l3 l3
+login 0
+login 0000
+login 1111
+login 8429
+maint maint
+maint ntacdmax
+mlusr mlusr
+ro ro
+root 3ep5w2u
+rw rw
+rwa rwa
+spcl 0
+spcl 0000
+supervisor PlsChgMe!
+supervisor visor
+sysadmin nortel
+system adminpwd
+tasman tasmannet
+trmcnfg trmcnfg
+user user0000
+&lt;blank&gt; cr0wmt 911
+&lt;blank&gt; root
+&lt;blank&gt; san fran 8
+ADMIN admin
+admin novell
+ARCHIVIST &lt;blank&gt;
+ARCHIVIST ARCHIVIST
+BACKUP &lt;blank&gt;
+CHEY_ARCHSVR &lt;blank&gt;
+CHEY_ARCHSVR CHEY_ARCHSVR
+FAX &lt;blank&gt;
+FAX FAX
+FAXUSER &lt;blank&gt;
+FAXUSER FAXUSER
+FAXWORKS &lt;blank&gt;
+FAXWORKS FAXWORKS
+GATEWAY &lt;blank&gt;
+GATEWAY GATEWAY
+GUEST &lt;blank&gt;
+GUEST GUESTGUE
+GUEST GUESTGUEST
+GUEST TSEUG
+HPLASER &lt;blank&gt;
+HPLASER HPLASER
+LASER &lt;blank&gt;
+LASER LASER
+LASERWRITER &lt;blank&gt;
+LASERWRITER LASERWRITER
+MAIL &lt;blank&gt;
+POST &lt;blank&gt;
+POST POST
+PRINT &lt;blank&gt;
+PRINT PRINT
+PRINTER &lt;blank&gt;
+PRINTER PRINTER
+ROOT &lt;blank&gt;
+ROOT ROOT
+SABRE &lt;blank&gt;
+sadmin &lt;blank&gt;
+servlet manager
+SUPERVISOR &lt;blank&gt;
+SUPERVISOR HARRIS
+SUPERVISOR NETFRAME
+SUPERVISOR NF
+SUPERVISOR NFI
+SUPERVISOR SUPERVISOR
+SUPERVISOR SYSTEM
+TEST &lt;blank&gt;
+USER_TEMPLATE &lt;blank&gt;
+USER_TEMPLATE USER_TEMPLATE
+WANGTEK &lt;blank&gt;
+WANGTEK WANGTEK
+WINDOWS_PASSTHRU &lt;blank&gt;
+WINDOWS_PASSTHRU WINDOWS_PASSTHRU
+WINSABRE SABRE
+WINSABRE WINSABRE
+root nsi
+$system &lt;blank&gt;
+&lt;blank&gt; 0 and the number of OCE printer
+ods ods
+admin &lt;SEE COMMENT&gt;
+admin OkiLAN
+root &lt;SEE COMMENT&gt;
+&lt;blank&gt; AaBbCcDd
+admin adslolitec
+&lt;blank&gt; SMDR
+&lt;blank&gt; SUPER
+root 0P3N
+mailadmin secret
+admin OCS
+adminstat OCS
+adminuser OCS
+adminview OCS
+helpdesk OCS
+gts opengts
+admin demo
+Bobo hello
+Coco hello
+Flo hello
+Joe hello
+Moe hello
+user_analyst demo
+user_approver demo
+user_author demo
+user_checker demo
+user_designer demo
+user_editor demo
+user_expert demo
+user_marketer demo
+user_pricer demo
+user_publisher demo
+cac_admin cacadmin
+sys uplink
+root mpegvideo
+ADAMS WOOD
+ADLDEMO ADLDEMO
+ADMIN JETSPEED
+admin security
+admin welcome
+ADMIN WELCOME
+ADMINISTRATOR admin
+ADMINISTRATOR ADMINISTRATOR
+ANDY SWORDFISH
+AP AP
+APPLSYS APPLSYS
+APPLSYS FND
+APPLSYSPUB FNDPUB
+APPS APPS
+APPUSER APPUSER
+AQ AQ
+AQDEMO AQDEMO
+AQJAVA AQJAVA
+AQUSER AQUSER
+AUDIOUSER AUDIOUSER
+AURORA@ORB@UNAUTHENTICATED INVALID
+AURORA$JIS$UTILITY$ &lt;blank&gt;
+AURORA$ORB$UNAUTHENTICATED INVALID
+BC4J BC4J
+BLAKE PAPER
+bpel bpel
+BRIO_ADMIN BRIO_ADMIN
+CATALOG CATALOG
+CDEMO82 CDEMO82
+CDEMOCOR CDEMOCOR
+CDEMORID CDEMORID
+CDEMOUCB CDEMOUCB
+CENTRA CENTRA
+CIDS CIDS
+CIS CIS
+CISINFO CISINFO
+CLARK CLOTH
+cn=orcladmin welcome
+COMPANY COMPANY
+COMPIERE COMPIERE
+CQSCHEMAUSER PASSWORD
+CSMIG CSMIG
+CTXDEMO CTXDEMO
+CTXSYS &lt;blank&gt;
+CTXSYS CTXSYS
+DBI MUMBLEFRATZ
+DBSNMP DBSNMP
+DEMO8 DEMO8
+DEMO9 DEMO9
+DES DES
+DEV2000_DEMOS DEV2000_DEMOS
+DIP DIP
+DISCOVERER_ADMIN DISCOVERER_ADMIN
+DSGATEWAY DSGATEWAY
+DSSYS DSSYS
+EJSADMIN EJSADMIN
+EMP EMP
+ESTOREUSER ESTORE
+EVENT EVENT
+EXFSYS EXFSYS
+FINANCE FINANCE
+FND FND
+FROSTY SNOWMAN
+GL GL
+GPFD GPFD
+GPLD GPLD
+HCPARK HCPARK
+HLW HLW
+HR HR
+ilom-admin ilom-admin
+ilom-operator ilom-operator
+IMAGEUSER IMAGEUSER
+IMEDIA IMEDIA
+internal oracle
+JMUSER JMUSER
+joe password
+JONES STEEL
+JWARD AIROPLANE
+L2LDEMO L2LDEMO
+LBACSYS LBACSYS
+LIBRARIAN SHELVES
+mary password
+MASTER PASSWORD
+MDDEMO_CLERK CLERK
+MDDEMO_MGR MGR
+MDDEMO MDDEMO
+MDSYS MDSYS
+MFG MFG
+MGWUSER MGWUSER
+MIGRATE MIGRATE
+MILLER MILLER
+MMO2 MMO2
+MODTEST YES
+MOREAU MOREAU
+MTS_USER MTS_PASSWORD
+MTSSYS MTSSYS
+MTYSYS MTYSYS
+MXAGENT MXAGENT
+NAMES NAMES
+nm2user nm2user
+OAS_PUBLIC OAS_PUBLIC
+OCITEST OCITEST
+ODM_MTR MTRPW
+ODM ODM
+ODS ODS
+ODSCOMMON ODSCOMMON
+OE OE
+OEMADM OEMADM
+OEMREP OEMREP
+OLAPDBA OLAPDBA
+OLAPSVR INSTANCE
+OLAPSYS MANAGER
+OMWB_EMULATION ORACLE
+OO OO
+OPENSPIRIT OPENSPIRIT
+ORACACHE (random password)
+oracle oracle
+ORAREGSYS ORAREGSYS
+ORASSO ORASSO
+ORDPLUGINS ORDPLUGINS
+ORDSYS ORDSYS
+OSE$HTTP$ADMIN (random password)
+OSP22 OSP22
+OUTLN OUTLN
+OWA_PUBLIC OWA_PUBLIC
+OWA OWA
+OWNER OWNER
+PANAMA PANAMA
+PATROL PATROL
+PERFSTAT PERFSTAT
+PLEX PLEX
+PLSQL SUPERSECRET
+PM PM
+PO PO
+PO7 PO7
+PO8 PO8
+PORTAL30_DEMO PORTAL30_DEMO
+PORTAL30_PUBLIC PORTAL30_PUBLIC
+PORTAL30_SSO_PS PORTAL30_SSO_PS
+PORTAL30_SSO_PUBLIC PORTAL30_SSO_PUBLIC
+PORTAL30_SSO PORTAL30_SSO
+PORTAL30 PORTAL30
+PORTAL30 PORTAL31
+POWERCARTUSER POWERCARTUSER
+PRIMARY PRIMARY
+PUBSUB PUBSUB
+PUBSUB1 PUBSUB1
+QDBA QDBA
+QS_ADM QS_ADM
+QS_CB QS_CB
+QS_CBADM QS_CBADM
+QS_CS QS_CS
+QS_ES QS_ES
+QS_OS QS_OS
+QS_WS QS_WS
+QS QS
+RE RE
+REP_MANAGER DEMO
+REP_OWNER DEMO
+REP_OWNER REP_OWNER
+REPADMIN REPADMIN
+REPORTS_USER OEM_TEMP
+RMAIL RMAIL
+RMAN RMAN
+SAMPLE SAMPLE
+SAP SAPR3
+SCOTT TIGER
+scott tiger or tigger
+SDOS_ICSAP SDOS_ICSAP
+SECDEMO SECDEMO
+SERVICECONSUMER1 SERVICECONSUMER1
+SH SH
+siteadmin siteadmin
+SITEMINDER SITEMINDER
+SLIDE SLIDEPW
+STARTER STARTER
+STRAT_USER STRAT_PASSWD
+SWPRO SWPRO
+SWUSER SWUSER
+SYMPA SYMPA
+sys change_on_install
+SYS CHANGE_ON_INSTALL
+SYS D_SYSPW
+sys sys
+SYSADM SYSADM
+SYSMAN oem_temp
+SYSMAN OEM_TEMP
+SYSTEM D_SYSTPW
+system manager
+system security
+system/manager sys/change_on_install
+TAHITI TAHITI
+TDOS_ICSAP TDOS_ICSAP
+TESTPILOT TESTPILOT
+TRACESRV TRACE
+TRACESVR TRACE
+TRAVEL TRAVEL
+TSDEV TSDEV
+TSUSER TSUSER
+TURBINE TURBINE
+ULTIMATE ULTIMATE
+USER0 USER0
+USER1 USER1
+USER2 USER2
+USER3 USER3
+USER4 USER4
+USER5 USER5
+USER6 USER6
+USER7 USER7
+USER8 USER8
+USER9 USER9
+UTLBSTATU UTLESTAT
+VIDEOUSER VIDEO USER
+VIF_DEVELOPER VIF_DEV_PWD
+VIRUSER VIRUSER
+VRR1 VRR1
+WEBCAL01 WEBCAL01
+webdb webdb
+WEBDB WEBDB
+weblogic weblogic
+WEBREAD WEBREAD
+WKSYS WKSYS
+wlcsystem wlcsystem
+wlpisystem wlpisystem
+WWW WWW
+WWWUSER WWWUSER
+XPRT XPRT
+root 1234
+d.e.b.u.g User
+debug d.e.b.u.g
+echo echo
+echo User
+guest User
+Manager Admin
+Manager Manager
+sysadm Admin
+write private
+osmc osmc
+root@localhost root
+root Password
+Admin adm001
+Guest std001
+pmd &lt;blank&gt;
+&lt;blank&gt; bell9
+&lt;blank&gt; touchpwd=
+admin Bonjour1!
+tech nician
+&lt;blank&gt; pento
+PSEAdmin $secure$
+admin pfsense
+core phpreactor
+admin microbusiness
+admin mu
+admin smallbusiness
+&lt;blank&gt; default.password
+admin [^_^]
+admin ISPMODE
+&lt;blank&gt; default
+postgres dbpass
+postgres svcPASS83
+SMDR SECONDARY
+Admin 456
+User 123
+&lt;blank&gt; ACCORD
+&lt;blank&gt; x6zynd56
+administrator * * #
+Polycom 456
+Polycom SpIp
+dcmadmin passw0rd
+postgres 123
+postgres admin
+postgres amber
+postgres password
+postgres postgres
+postgres &lt;blank&gt;
+pwrchute pwrchute
+Administrator Gateway
+dos dos
+fam fam
+guest1 guest
+guest1 guest1
+mail mail
+mfd mfd
+netlink netlink
+prime prime
+prime primeos
+primenet primenet
+primenet primeos
+primeos prime
+primeos primeos
+primos_cs prime
+primos_cs primos
+system prime
+system system
+tele tele
+&lt;blank&gt; 002236
+engmode hawk201
+&lt;blank&gt; 4321
+musi1921 Musi%1921
+prtgadmin prtgadmin
+support h179350
+admin gnumpf
+&lt;blank&gt; lesarotl
+&lt;blank&gt; QDI
+images images
+master master
+&lt;blank&gt; teX1
+&lt;blank&gt; xljlbj
+TOAD TOAD
+questra questra
+[MULTIPLE] 744
+&lt;blank&gt; 744
+&lt;blank&gt; MCUrv
+lp lp
+radware radware
+&lt;blank&gt; raidzone
+&lt;blank&gt; rainbow
+wradmin trancell
+rsadmin &lt;blank&gt;
+admin raritan
+epiq_api raritan
+web_api sl33p30F00dumass!
+pi raspberry
+admin pw
+piranha piranha
+piranha q
+880175445 11223344
+ARAdmin AR#Admin#
+Demo &lt;blank&gt;
+manager changeme
+&lt;blank&gt; Col2ogro2
+root resumix
+sysadmin password
+Admin 123qwe
+&lt;blank&gt; RM
+admin rmnetlm
+admin2 changeme
+administrator password/changeme or secret
+adminstrator changeme
+deskalt password
+deskman changeme
+desknorm password
+deskres password
+replicator replicator
+RMUser1 password
+setup changeme
+teacher password
+temp1 password
+topicalt password
+topicnorm password
+topicres password
+wVQxyQec eomjbOBLLwbZeiKV
+Rodopi Rodopi
+editor editor
+admin admin1234
+administrator RSAAppliance
+master themaster01
+administrator d1scovery
+integrator p1nacate
+operator col1ma
+sa DBA!sa@EMSDB123
+Menara Menara
+Any Any
+billy-bob &lt;blank&gt;
+ftp &lt;blank&gt;
+admin 1111111
+admin 4321
+&lt;blank&gt; s!a@m#n$p%c
+public public
+admin Support
+admin axis2
+Administrator manage
+ctb_admin sap123
+DDIC 19920706
+Developer isdev
+EARLYWATCH SUPPORT
+itsadmin init
+Replicator iscopy
+SAP* 06071992
+SAP* 7061992
+SAP* PASS
+SAPCPIC admin
+SAPCPIC ADMIN
+SAPR3 SAP
+TMSADM &lt;blank&gt;
+xmi_demo sap123
+sa SECAdmin1
+SMSAdmin SECAdmin1
+ntpupdate ntpupdate
+sysdiag factorycast@schneider
+admin w2402
+root changeonfirstlogin
+sa changeonfirstlogin
+admin rainbow
+DESQUETOP &lt;blank&gt;
+DS &lt;blank&gt;
+DSA &lt;blank&gt;
+PHANTOM &lt;blank&gt;
+ADMN admn
+GEN1 gen1
+GEN2 gen2
+admin Sharp
+hello hello
+Admin admin1
+&lt;blank&gt; Spacve
+&lt;blank&gt; uboot
+18140815 18140815
+31994 31994
+admin pwp
+eng engineer
+poll poll
+poll tech
+su super
+sysadmin sysadmin
+system field
+WinCCAdmin 2WSXcde
+WinCCConnect 2WSXcder
+&lt;blank&gt; 123456
+&lt;blank&gt; gubed
+admin hagpolm1
+basisk basisk
+user 12345
+Administrator ganteng
+access &lt;blank&gt;
+4Dgifts &lt;blank&gt;
+4Dgifts 4Dgifts
+6.x &lt;blank&gt;
+demos &lt;blank&gt;
+Ezsetup &lt;blank&gt;
+field field
+lp &lt;blank&gt;
+OutOfBox &lt;blank&gt;
+tour tour
+tutor &lt;blank&gt;
+tutor tutor
+&lt;blank&gt; damin
+&lt;blank&gt; sitecom
+admin b
+Audrey a
+Bill b
+Denny d
+Lonnie l
+Minnie m
+sa skf_admin1
+&lt;blank&gt; sma
+&lt;blank&gt; smcadmin
+admin barricade
+Admin Barricade
+admin smcadmin
+Administrator smcadmin
+default WLAN_AP
+mso w0rkplac3rul3s
+smc smcadmin
+&lt;blank&gt; 0392a0
+&lt;blank&gt; 2read
+&lt;blank&gt; 4changes
+&lt;blank&gt; adm
+&lt;blank&gt; Admin
+&lt;blank&gt; agent
+&lt;blank&gt; agent_steal
+&lt;blank&gt; all
+&lt;blank&gt; apc
+&lt;blank&gt; bintec
+&lt;blank&gt; blue
+&lt;blank&gt; C0de
+&lt;blank&gt; cable
+&lt;blank&gt; canon_admin
+&lt;blank&gt; CISCO
+&lt;blank&gt; community
+&lt;blank&gt; core
+&lt;blank&gt; CR52401
+&lt;blank&gt; debug
+&lt;blank&gt; dilbert
+&lt;blank&gt; enable
+&lt;blank&gt; field
+&lt;blank&gt; freekevin
+&lt;blank&gt; fubar
+&lt;blank&gt; guest
+&lt;blank&gt; hello
+&lt;blank&gt; hp_admin
+&lt;blank&gt; ibm
+&lt;blank&gt; ilmi
+&lt;blank&gt; Intermec
+&lt;blank&gt; internal
+&lt;blank&gt; l3
+&lt;blank&gt; mngt
+&lt;blank&gt; monitor
+&lt;blank&gt; netman
+&lt;blank&gt; network
+&lt;blank&gt; NoGaH$@!
+&lt;blank&gt; openview
+&lt;blank&gt; OrigEquipMfr
+&lt;blank&gt; pass
+&lt;blank&gt; pr1v4t3
+&lt;blank&gt; Private
+&lt;blank&gt; PRIVATE
+&lt;blank&gt; proxy
+&lt;blank&gt; publ1c
+&lt;blank&gt; Public
+&lt;blank&gt; PUBLIC
+&lt;blank&gt; read
+&lt;blank&gt; readwrite
+&lt;blank&gt; red
+&lt;blank&gt; regional
+&lt;blank&gt; rmon
+&lt;blank&gt; rmon_admin
+&lt;blank&gt; router
+&lt;blank&gt; san
+&lt;blank&gt; sanfran
+&lt;blank&gt; scotty
+&lt;blank&gt; Secret
+&lt;blank&gt; SECRET
+&lt;blank&gt; security
+&lt;blank&gt; Security
+&lt;blank&gt; SECURITY
+&lt;blank&gt; seri
+&lt;blank&gt; snmp
+&lt;blank&gt; SNMP
+&lt;blank&gt; SNMP_trap
+&lt;blank&gt; snmpd
+&lt;blank&gt; snmptrap
+&lt;blank&gt; solaris
+&lt;blank&gt; sun
+&lt;blank&gt; SUN
+&lt;blank&gt; superuser
+&lt;blank&gt; switch
+&lt;blank&gt; Switch
+&lt;blank&gt; SWITCH
+&lt;blank&gt; System
+&lt;blank&gt; tech
+&lt;blank&gt; test
+&lt;blank&gt; TEST
+&lt;blank&gt; test2
+&lt;blank&gt; tiv0li
+&lt;blank&gt; tivoli
+&lt;blank&gt; trap
+&lt;blank&gt; world
+&lt;blank&gt; write
+&lt;blank&gt; yellow
+admi &lt;blank&gt;
+Administrator 0000
+LocalAdministrator #l@$ak#.lk;0@P
+whd whd
+aaa often blank
+root same as webui pwd
+admin Sonus12345
+&lt;blank&gt; 4x "Enter" button
+admin Protector
+Admin shs
+&lt;blank&gt; adminttd
+&lt;blank&gt; speedxess
+admin passwort
+sa splendidcrm2005
+self system
+SSA SSA
+&lt;blank&gt; 2501
+nasadmin nasadmin
+stratacom stratauser
+root ahetzip8
+stuccoboy 100198
+root sun123
+root t00lk1t
+ssp ssp
+admin AlpheusDigital1010
+&lt;blank&gt; ksdjfg934t
+admin surecom
+&lt;blank&gt; blank
+&lt;blank&gt; mysweex
+rdc123 rdc123
+sweex mysweex
+target password
+ftpuser 1234
+nmt 1234
+12.x &lt;blank&gt;
+DBA SQL
+jagadmin &lt;blank&gt;
+sa sasasa
+&lt;blank&gt; 8888
+&lt;blank&gt; symantec
+admin symantec
+root brightmail
+&lt;blank&gt; Symbol
+admin symbol
+Symbol Symbol
+guest truetime
+operator mercury
+default.password &lt;blank&gt;
+install secret
+veda 12871
+&lt;blank&gt; 10023
+&lt;blank&gt; GWrv
+&lt;blank&gt; TANDBERG
+admin TANDBERG
+root TANDBERG
+super.super &lt;blank&gt;
+super.super master
+Tasman Tasmannet
+xbox xbox
+admin tegile
+telco telco
+snmp nopasswd
+eagle eagle
+admin@company.com admin
+sa vantage12!
+root admin_1
+tellabs tellabs#1
+666666 666666
+888888 888888
+admin 1111
+admin 54321
+admin1 password
+guest 12345
+mother fucker
+root 0
+root 1111
+root 123456
+root 54321
+root 666666
+root 7ujMko0vizxv
+root 888888
+root anko
+root dreambox
+root hi3518
+root ikwb
+root juantech
+root jvbzd
+root klv123
+root klv1234
+root realtek
+root user
+root xc3511
+root xmhdipc
+root zlxx.
+root Zte521
+ubnt ubnt
+admin tetra
+(created) telus00
+(created) telus99
+james james
+&lt;blank&gt; 123
+god1 12345
+god2 12345
+&lt;blank&gt; tiara
+tiara tiaranet
+admin changeit
+theman changeit
+sa dr8gedog
+sa Dr8gedog
+&lt;blank&gt; Tiny
+&lt;blank&gt; tiny
+&lt;blank&gt; BIGO
+siteadmin toplayer
+topadmin topadmin
+superman talent
+&lt;blank&gt; 24Banc81
+&lt;blank&gt; Toshiba
+&lt;blank&gt; toshy99
+super superpass
+onlime_r 12345
+admin imsa7.0
+root trendimsa1.0
+admin imss7.0
+t3admin Trintech
+root TrippLite
+managers managers
+Admin SECRET123
+&lt;blank&gt; enter
+&lt;blank&gt; joh316
+&lt;blank&gt; amber
+Any 12345
+root ubnt
+Administrator Unidesk1
+HTTP HTTP
+NAU NAU
+adm &lt;blank&gt;
+adm adm
+anon anon
+bbs &lt;blank&gt;
+bbs bbs
+bin sys
+checkfs checkfs
+checkfsys checkfsys
+checksys checksys
+daemon &lt;blank&gt;
+daemon daemon
+demo &lt;blank&gt;
+demos demos
+dni &lt;blank&gt;
+dni dni
+fal &lt;blank&gt;
+fal fal
+fax &lt;blank&gt;
+fax fax
+games &lt;blank&gt;
+games games
+gopher gopher
+gropher &lt;blank&gt;
+guest guestgue
+halt &lt;blank&gt;
+halt halt
+lp bin
+lp lineprin
+lpadm lpadm
+lpadmin lpadmin
+lynx &lt;blank&gt;
+lynx lynx
+mail &lt;blank&gt;
+man &lt;blank&gt;
+man man
+me me
+mountfs mountfs
+mountfsys mountfsys
+mountsys mountsys
+news &lt;blank&gt;
+news news
+nobody &lt;blank&gt;
+nobody nobody
+nuucp &lt;blank&gt;
+oracle &lt;blank&gt;
+postmaster &lt;blank&gt;
+postmaster postmast
+powerdown powerdown
+rje rje
+root hp
+shutdown &lt;blank&gt;
+shutdown shutdown
+sync &lt;blank&gt;
+sync sync
+sys bin
+sys system
+sysadm admin
+sysbin sysbin
+system_admin &lt;blank&gt;
+system_admin system_admin
+trouble trouble
+umountfs umountfs
+umountfsys umountfsys
+umountsys umountsys
+unix unix
+uucp uucp
+uucpadm uucpadm
+web &lt;blank&gt;
+web web
+webmaster &lt;blank&gt;
+webmaster webmaster
+www &lt;blank&gt;
+www www
+overseer overseer
+lexar &lt;blank&gt;
+sa SecurityMaster08
+admin utstar
+dbase dbase
+guru *3noguru
+snmp snmp
+admin 11_ThisIsTheFirstPassword_11
+&lt;blank&gt; 166816
+root vertex25
+&lt;blank&gt; Vextrex
+sa V4in$ight
+vpasp vpasp
+root QNX
+admin visual
+&lt;blank&gt; ADMIN
+&lt;blank&gt; Admin#1
+&lt;blank&gt; Administrator
+&lt;blank&gt; Amx1234!
+&lt;blank&gt; AVStumpfl
+&lt;blank&gt; beijer
+&lt;blank&gt; EltakoFVS
+&lt;blank&gt; elux
+&lt;blank&gt; eyevis
+&lt;blank&gt; FELDTECH_VNC
+&lt;blank&gt; fidel123
+&lt;blank&gt; hapero
+&lt;blank&gt; instrument
+&lt;blank&gt; m9ff.QW
+&lt;blank&gt; maryland-dstar
+&lt;blank&gt; muster
+&lt;blank&gt; pass1
+&lt;blank&gt; pass2
+&lt;blank&gt; passwd11
+&lt;blank&gt; Passwort
+&lt;blank&gt; protech
+&lt;blank&gt; qwasyx21
+&lt;blank&gt; raspberry
+&lt;blank&gt; ripnas
+&lt;blank&gt; sigmatek
+&lt;blank&gt; solarfocus
+&lt;blank&gt; TOUCHLON
+&lt;blank&gt; user
+&lt;blank&gt; visam
+&lt;blank&gt; Vision2
+&lt;blank&gt; vnc
+&lt;blank&gt; vnc_pcc
+&lt;blank&gt; Wyse
+&lt;blank&gt; Wyse#123
+&lt;blank&gt; yesco
+&lt;blank&gt; merlin
+pw pw
+voadmin manager
+admin waav
+&lt;blank&gt; ABCD
+&lt;blank&gt; Guest
+&lt;blank&gt; NTCIP
+CSG SESAME
+pepino pepino
+&lt;blank&gt; wg
+admin readwrite
+status readonly
+user pass
+EXAMPLES EXAMPLES
+monitor password
+operator password
+operator weblogic
+PUBLIC PUBLIC
+system Passw0rd
+system welcome(1)
+WEBLOGIC WEBLOGIC
+weblogic weblogic1
+weblogic welcome(1)
+admin Detmold
+admin detmond
+sa Cardio.Perfect
+admin password1
+admin sysAdmin
+&lt;blank&gt; Compleri
+admin trinity
+Administrator FELDTECH
+Administrator vagrant
+administrator Wyse#123
+demo m9ff.QW
+IEUser Passw0rd!
+instrument instrument
+john Password123!
+openhabian openhabian
+secure SecurityMaster08
+sonos sonos
+user Wyse#123
+vagrant vagrant
+root rootpass
+aaAdmin pwAdmin
+aadbo pwddbo
+aaPower pwPower
+aaUser pwUser
+wwAdmin wwAdmin
+wwdbo wwdbo
+wwPower wwPower
+wwUser wwUser
+WebAdmin Admin
+WebAdmin WebBoard
+1502 1502
+newuser wampp
+xd xd
+11111 &lt;blank&gt;
+&lt;blank&gt; 11111
+11111 x-admin
+admin 2222
+admin 22222
+admin x-admin
+Administrator Fiery.1
+NSA nsa
+savelogs crash
+openfiler password
+setpriv system
+root ys123456
+&lt;blank&gt; 727
+User 1234
+User 19750407
+Admin zabbix
+admin 0000
+&lt;blank&gt; 1851
+admin alphaadmin
+ADMIN alphacom
+&lt;blank&gt; 3098z
+&lt;blank&gt; Zenith
+&lt;blank&gt; zeosx
+admin zoomadsl
+on on
+root W!n0&oO7.
+ZXDSL ZXDSL
+ADSL expert03
+zyfwp PrOw!aN_fXp
+devicehaecived 1234
+192.168.1.1 60020 @dsl_xilno
+Admin atc456
+webadmin 1234
+$sub_name  password
+  root
+  admin
+  CUAdmin
+  default
+  rapport
+  super
+  telnetadmin
+  !!Huawei
+  keomeo
+  support
+  CMCCAdmin
+  e8telnet
+  e8ehome1
+  e8ehome
+  user
+  mother
+  Administrator
+  service
+  supervisor
+  guest
+  admin1
+  administrator
+  666666
+  888888
+  ubnt
+  tech
+  xc3511
+  vizxv
+  Pon521
+  e2008jl
+  r@p8p0r+
+  GM8182
+  gpon
+  Zte521
+  hg2x0
+  epicrouter
+  conexant
+  xJ4pCYeW
+  v2mprt
+  PhrQjGzk
+  h@32LuyD
+  gw1admin
+  adminpass
+  xmhdipc
+  juantech
+  @HuaweiHgw
+  adminHW
+  2010vesta
+  2011vesta
+  plumeria0077
+  cat1029
+  123456
+  54321
+  hi3518
+  password
+  12345
+  fucker
+  pass
+  admin1234
+  1111
+  smcadmin
+  1234
+  klv123
+  klv1234
+  zte
+  jvbzd
+  anko
+  zlxx
+  7ujMko0vizxv
+  7ujMko0admin
+  system
+  ikwb
+  dreambox
+  realtek
+  00000000
+  1111111
+  meinsm
+  
+  0
+  0000
+  00000
+  00001
+  642935177
+  66
+  77
+  AAAA
+  anonymous
+  europa
+  ganymed
+  gem10
+  kallisto
+  n3Y9kA6otYZu8
+  SERVICETOOL
+  wdpf
+  wdpfRO
+  ZYPCOM
+0  
+0  0
+1  1
+1234  1234
+2  2
+4444  4444
+7936  administrator
+8000  
+a  a
+aaAdmin  pwAdmin
+aadbo  pwddbo
+aaPower  pwPower
+aaUser  pwUser
+adm  adm
+admin  
+admin  !admin
+admin  0000
+Admin  00000000
+admin  1111
+admin  123123
+admin  1234
+admin  12346578
+admin  22222
+admin  456
+admin  a
+admin  abc123
+admin  admin
+Admin  admin
+Admin  Admin
+ADMIN  ADMIN
+admin  admin123
+admin  avocent
+admin  bintec
+admin  blank
+Admin  blank
+admin  default
+admin  fadmin
+admin  funkwerk
+admin  j5Brn9
+admin  loytec4u
+admin  master
+admin  packet
+admin  pass
+admin  PASS
+admin  password
+admin  password!
+admin  password1
+admin  Password1
+admin  private
+admin  root
+ADMIN  SBTAdmin!
+admin  Sonus12345
+admin  switch
+admin  system
+admin  tomcat
+admin  tracerlab
+admin  wago
+admin  westermo
+admin@root  charleM!800
+Admin1  Administrator
+Admin2  Adminstraotor
+administrator  
+Administrator  
+Administrator  1
+Administrator  111111
+Administrator  123456
+Administrator  abc123
+Administrator  access
+Administrator  admin
+administrator  administrator
+Administrator  Administrator
+administrator  blank
+Administrator  deltav
+Administrator  enter
+Administrator  Gateway
+Administrator  letmein
+Administrator  login
+Administrator  master
+administrator  ml1100
+administrator  ml1400
+Administrator  monkey
+Administrator  monkey123
+Administrator  p@ssword
+Administrator  pass
+Administrator  passw0rd
+Administrator  password
+Administrator  Password
+Administrator  PASSWORD
+Administrator  password1
+Administrator  password123
+Administrator  Password123
+Administrator  qwerty
+Administrator  secret
+Administrator  shadow
+administrator  superuser
+Administrator  Welcome
+Administrator  welcome1
+Administrator  welcome123
+Administrator  Welcome123
+Administrator  Wonderware
+Advanced  advanced
+advantech  admin
+anonymous  
+anonymous  anonymous
+anonymous@anonymous.net  
+anonymous@anonymous.net  anonymous
+argus  argus
+ArgusAdmin  masterkey
+AUT_CSE  cQdd9debez
+AUTCSE  RybQRceeSd
+Basisk  Basisk
+both  tomcat
+carel  fcarel
+CENTUM  CENTUM
+cisco  cisco
+ctuser  4$apps
+CTXSYS  CTXSYS
+cxsdk  kdsxc
+DBSNMP  DBSNMP
+def  trade
+default  1234
+default  default
+DMUser  Data&Pass
+Echelon  echeloncorp
+ecoV  ecopass
+eignet  inp100
+exec  default
+fdrusers  sresurdf
+ftp  
+ftp  ftp
+ftp_boot  ftp_boot
+ftpuser  ftpuser
+guest  fguest
+guest  guest
+guest  test
+guest  user
+http  
+http  http
+httpadmin  fhttpadmin
+ilon  ilon
+installer  1000
+Installer  sma
+j2deployer  j2deployer
+kermit  kermit
+Liebert  Liebert
+loader  fwdownload
+LOI  1000
+maint  default
+manager  friend
+manager  manager
+MDSYS  MDSYS
+MELSEC  MELSEC
+MyTurbine  m442+SRt
+naztec  naztec
+nic2212  poiuypoiuy
+nimrohs2212  qwertyqwerty
+nip2212  fcsdfcsd
+noe77111_v500  RcSyyebczS
+ntpupdate  ntpupdat
+ntpupdate  ntpupdate
+One  admin
+oper  default
+oper  oper
+operator  operator
+osmc  osmc
+OUTLN  OUTLN
+ovwebusr  OvW*busr1
+pcfactory  pcfactory
+pi  raspberry
+PoE  admin
+Polycom  456
+postgres  admin
+postgres  password
+postgres  postgres
+ppps  ppps
+PPPSERVER  
+PVRemote  PD35010
+pvserver  pvwr
+qbf77101  hexakisoctahedron
+QCC  QLogic66
+QNUDECPU  QNUDECPU
+rokos  rokos
+role  changethis
+role1  role1
+role1  tomcat
+rolel  rolel
+rolel  tomcat
+root  
+root  #bigguy
+root  00000000
+Root  00000000
+root  840sw
+root  admin
+root  calvin
+root  changeme
+root  changethis
+root  dbps
+root  deif7800
+root  dietpi
+root  froot
+root  libreelec
+root  linux
+root  openelec
+root  passw0rd
+root  password
+root  password1
+root  Password1
+root  password123
+root  r00t
+root  rkwjsdusrnth
+root  root
+root  rootme
+root  toor
+root  wago
+root  zP2wxY4uE
+sa  42Emerson42Eme
+sconsole  12345
+SCOTT  TIGER
+service  ABB800xA
+su  ko2003wa
+super  super
+superview  superview
+SYS  CHANGE_ON_INSTALL
+SysAdmin  honey
+sysdiag  factorycast@schneider
+system  
+SYSTEM  666666
+SYSTEM  MANAGER
+system  password
+target  RcQbRbzRyc
+test  test
+test  testingpw
+tomcat  
+tomcat  admin
+tomcat  changethis
+tomcat  password
+tomcat  password1
+tomcat  s3cret
+tomcat  tomcat
+tracerlab  tracerlab
+tridium  niagara
+ubnt  ubnt
+ubuntu  ubuntu
+uploader  ZYPCOM
+User 1  User01
+user  
+User  00000000
+user  12345
+user  public
+user  system
+user  user
+User  User
+USER  USER
+user  user00
+USER  USERUSER
+USERID  PASSW0RD
+username  password
+USHA  admin
+vesstore  vesstore
+viewer  12345
+webguest  1
+webserver  webpages
+winccd  winccpass
+wincce  winccpass
+wl_test  wl_test
+wsupgrade  wsupgrade
+wwAdmin  wwAdmin
+wwdbo  pwddbo
+wwPower  wwPower
+wwUser  wwUser
+xampp  xampp
